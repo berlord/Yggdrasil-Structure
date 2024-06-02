@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+        {
+            "rolls": 0,
+            "bonus_rolls": 0,
+            "entries": []
+        }
+    ],
+    "random_sequence": "yggdrasil:alfheim_tree/chest"
+}

@@ -1,0 +1,22 @@
+{
+    "replace": false,
+    "values": [
+        "#minecraft:is_forest",
+        {
+            "id": "tectonic:autumn_birch_forest",
+            "required": false
+        },
+        {
+            "id": "tectonic:evergreen_forest",
+            "required": false
+        },
+        {
+            "id": "tectonic:grasslands",
+            "required": false
+        },
+        {
+            "id": "tectonic:old_growth_evergreen_forest",
+            "required": false
+        }
+    ]
+}
