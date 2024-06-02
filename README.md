@@ -1,4 +1,4 @@
-# Yggdrasil Structure - 1.21 - Datapack / Mods
+# Yggdrasil Structure - 1.21 - Datapack - Mods
 ![yggdrasil](https://github.com/Hardel-DW/Yggdrasil-Structure/assets/42413417/b481d58c-a1f4-4d04-a884-6ac538c02bbd)
 
 # What is Yggdrasil ?
