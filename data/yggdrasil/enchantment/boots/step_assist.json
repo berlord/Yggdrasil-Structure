@@ -1,0 +1,37 @@
+{
+    "description": {
+        "translate": "enchantment.enchantplus.step_assist",
+        "fallback": "Step Assist"
+    },
+    "slots": [
+        "feet"
+    ],
+    "exclusive_set": "#minecraft:exclusive_set/boots",
+    "supported_items": "#minecraft:enchantable/foot_armor",
+    "weight": 1,
+    "max_level": 3,
+    "min_cost": {
+        "base": 65,
+        "per_level_above_first": 9
+    },
+    "max_cost": {
+        "base": 65,
+        "per_level_above_first": 9
+    },
+    "anvil_cost": 8,
+    "effects": {
+        "minecraft:attributes": [
+            {
+                "name": "enchantment.step_assist",
+                "attribute": "minecraft:generic.step_height",
+                "amount": {
+                    "type": "minecraft:linear",
+                    "base": 0.4,
+                    "per_level_above_first": 1
+                },
+                "operation": "add_value",
+                "uuid": "47cfbe03-ba58-476c-881a-65ef52187955"
+            }
+        ]
+    }
+}
