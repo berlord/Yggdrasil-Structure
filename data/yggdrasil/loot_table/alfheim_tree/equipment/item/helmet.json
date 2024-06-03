@@ -7,7 +7,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:iron_leggings",
+                    "name": "minecraft:iron_helmet",
                     "weight": 4,
                     "functions": [
                         {
@@ -15,7 +15,7 @@
                             "components": {
                                 "minecraft:trim": {
                                     "material": "minecraft:amethyst",
-                                    "pattern": "minecraft:coast"
+                                    "pattern": "minecraft:wayfinder"
                                 }
                             }
                         }
@@ -23,7 +23,7 @@
                 },
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:iron_leggings",
+                    "name": "minecraft:iron_helmet",
                     "weight": 3,
                     "functions": [
                         {
@@ -38,15 +38,20 @@
                             "components": {
                                 "minecraft:trim": {
                                     "material": "minecraft:copper",
-                                    "pattern": "minecraft:raiser"
+                                    "pattern": "minecraft:bolt"
                                 }
                             }
+                        },
+                        {
+                            "function": "minecraft:enchant_randomly",
+                            "options": "#yggdrasil:equipment/helmet",
+                            "only_compatible": true
                         }
                     ]
                 },
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:diamond_leggings",
+                    "name": "minecraft:diamond_helmet",
                     "weight": 2,
                     "functions": [
                         {
@@ -54,7 +59,7 @@
                             "components": {
                                 "minecraft:trim": {
                                     "material": "minecraft:diamond",
-                                    "pattern": "minecraft:shaper"
+                                    "pattern": "minecraft:dune"
                                 }
                             }
                         }
@@ -62,7 +67,7 @@
                 },
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:diamond_leggings",
+                    "name": "minecraft:diamond_helmet",
                     "weight": 2,
                     "functions": [
                         {
@@ -77,15 +82,20 @@
                             "components": {
                                 "minecraft:trim": {
                                     "material": "minecraft:netherite",
-                                    "pattern": "minecraft:tide"
+                                    "pattern": "minecraft:shaper"
                                 }
                             }
+                        },
+                        {
+                            "function": "minecraft:enchant_randomly",
+                            "options": "#yggdrasil:equipment/helmet",
+                            "only_compatible": true
                         }
                     ]
                 },
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:netherite_leggings",
+                    "name": "minecraft:netherite_helmet",
                     "weight": 1,
                     "functions": [
                         {
@@ -93,7 +103,7 @@
                             "components": {
                                 "minecraft:trim": {
                                     "material": "minecraft:redstone",
-                                    "pattern": "minecraft:ward"
+                                    "pattern": "minecraft:silence"
                                 }
                             }
                         }
@@ -101,7 +111,7 @@
                 },
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:netherite_leggings",
+                    "name": "minecraft:netherite_helmet",
                     "weight": 1,
                     "functions": [
                         {
@@ -116,9 +126,14 @@
                             "components": {
                                 "minecraft:trim": {
                                     "material": "minecraft:quartz",
-                                    "pattern": "minecraft:wayfinder"
+                                    "pattern": "minecraft:flow"
                                 }
                             }
+                        },
+                        {
+                            "function": "minecraft:enchant_randomly",
+                            "options": "#yggdrasil:equipment/helmet",
+                            "only_compatible": true
                         }
                     ]
                 }

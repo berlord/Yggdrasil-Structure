@@ -41,6 +41,11 @@
                                     "pattern": "minecraft:rib"
                                 }
                             }
+                        },
+                        {
+                            "function": "minecraft:enchant_randomly",
+                            "options": "#yggdrasil:equipment/chestplate",
+                            "only_compatible": true
                         }
                     ]
                 },
@@ -80,6 +85,11 @@
                                     "pattern": "minecraft:tide"
                                 }
                             }
+                        },
+                        {
+                            "function": "minecraft:enchant_randomly",
+                            "options": "#yggdrasil:equipment/chestplate",
+                            "only_compatible": true
                         }
                     ]
                 },
@@ -119,6 +129,11 @@
                                     "pattern": "minecraft:ward"
                                 }
                             }
+                        },
+                        {
+                            "function": "minecraft:enchant_randomly",
+                            "options": "#yggdrasil:equipment/chestplate",
+                            "only_compatible": true
                         }
                     ]
                 }

@@ -1,6 +1,7 @@
 {
     "type": "minecraft:jigsaw",
     "biomes": "#yggdrasil:has_structure/alfheim_tree",
+    "liquid_settings": "ignore_waterlogging",
     "step": "surface_structures",
     "spawn_overrides": {},
     "start_pool": "yggdrasil:alfheim_tree/tree/middle",

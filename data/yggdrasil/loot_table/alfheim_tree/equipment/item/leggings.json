@@ -7,7 +7,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:iron_boots",
+                    "name": "minecraft:iron_leggings",
                     "weight": 4,
                     "functions": [
                         {
@@ -15,7 +15,7 @@
                             "components": {
                                 "minecraft:trim": {
                                     "material": "minecraft:amethyst",
-                                    "pattern": "minecraft:sentry"
+                                    "pattern": "minecraft:coast"
                                 }
                             }
                         }
@@ -23,7 +23,7 @@
                 },
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:iron_boots",
+                    "name": "minecraft:iron_leggings",
                     "weight": 3,
                     "functions": [
                         {
@@ -38,6 +38,27 @@
                             "components": {
                                 "minecraft:trim": {
                                     "material": "minecraft:copper",
+                                    "pattern": "minecraft:raiser"
+                                }
+                            }
+                        },
+                        {
+                            "function": "minecraft:enchant_randomly",
+                            "options": "#yggdrasil:equipment/leggings",
+                            "only_compatible": true
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:diamond_leggings",
+                    "weight": 2,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:trim": {
+                                    "material": "minecraft:diamond",
                                     "pattern": "minecraft:shaper"
                                 }
                             }
@@ -46,23 +67,7 @@
                 },
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:diamond_boots",
-                    "weight": 2,
-                    "functions": [
-                        {
-                            "function": "minecraft:set_components",
-                            "components": {
-                                "minecraft:trim": {
-                                    "material": "minecraft:diamond",
-                                    "pattern": "minecraft:snout"
-                                }
-                            }
-                        }
-                    ]
-                },
-                {
-                    "type": "minecraft:item",
-                    "name": "minecraft:diamond_boots",
+                    "name": "minecraft:diamond_leggings",
                     "weight": 2,
                     "functions": [
                         {
@@ -77,15 +82,20 @@
                             "components": {
                                 "minecraft:trim": {
                                     "material": "minecraft:netherite",
-                                    "pattern": "minecraft:coast"
+                                    "pattern": "minecraft:tide"
                                 }
                             }
+                        },
+                        {
+                            "function": "minecraft:enchant_randomly",
+                            "options": "#yggdrasil:equipment/leggings",
+                            "only_compatible": true
                         }
                     ]
                 },
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:netherite_boots",
+                    "name": "minecraft:netherite_leggings",
                     "weight": 1,
                     "functions": [
                         {
@@ -93,7 +103,7 @@
                             "components": {
                                 "minecraft:trim": {
                                     "material": "minecraft:redstone",
-                                    "pattern": "minecraft:snout"
+                                    "pattern": "minecraft:ward"
                                 }
                             }
                         }
@@ -101,7 +111,7 @@
                 },
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:netherite_boots",
+                    "name": "minecraft:netherite_leggings",
                     "weight": 1,
                     "functions": [
                         {
@@ -116,9 +126,14 @@
                             "components": {
                                 "minecraft:trim": {
                                     "material": "minecraft:quartz",
-                                    "pattern": "minecraft:wild"
+                                    "pattern": "minecraft:wayfinder"
                                 }
                             }
+                        },
+                        {
+                            "function": "minecraft:enchant_randomly",
+                            "options": "#yggdrasil:equipment/leggings",
+                            "only_compatible": true
                         }
                     ]
                 }
