@@ -16,7 +16,6 @@ It can appear in any forest, and it's hard to find! Climbing it will be a real h
 ![2024-06-03_00 30 10](https://github.com/Hardel-DW/Yggdrasil-Structure/assets/42413417/2b895207-1fd2-4733-bfab-f66650bf00df)
 ![2024-06-03_00 30 01](https://github.com/Hardel-DW/Yggdrasil-Structure/assets/42413417/4ea32c15-4839-4cfd-9782-c66c9780128d)
 ![2024-06-03_00 29 43](https://github.com/Hardel-DW/Yggdrasil-Structure/assets/42413417/282bf249-dae7-4e30-8612-39b4435e2506)
-![2024-06-03_00 29 18](https://github.com/Hardel-DW/Yggdrasil-Structure/assets/42413417/cc366924-3da2-413b-86d6-7c7b255d60d7)
 
 # Structure Overview
 This pack currently introduces only one structure, which required over 100 hours of work and hundreds of files. It takes several hours to explore, offering unique rewards. The difficulty level is far superior to anything you've seen before! It utilizes the new Vault and Trial Spawner from version 1.21.
