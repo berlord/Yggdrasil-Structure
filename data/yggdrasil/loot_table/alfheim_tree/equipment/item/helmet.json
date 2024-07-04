@@ -44,7 +44,7 @@
                         },
                         {
                             "function": "minecraft:enchant_randomly",
-                            "options": "#yggdrasil:equipment/helmet",
+                            "options": "#yggdrasil:equipment/item/helmet",
                             "only_compatible": true
                         }
                     ]
@@ -88,7 +88,7 @@
                         },
                         {
                             "function": "minecraft:enchant_randomly",
-                            "options": "#yggdrasil:equipment/helmet",
+                            "options": "#yggdrasil:equipment/item/helmet",
                             "only_compatible": true
                         }
                     ]
@@ -132,7 +132,7 @@
                         },
                         {
                             "function": "minecraft:enchant_randomly",
-                            "options": "#yggdrasil:equipment/helmet",
+                            "options": "#yggdrasil:equipment/item/helmet",
                             "only_compatible": true
                         }
                     ]

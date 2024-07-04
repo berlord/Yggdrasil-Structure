@@ -35,7 +35,7 @@
                         },
                         {
                             "function": "minecraft:enchant_randomly",
-                            "options": "#yggdrasil:equipment/boots",
+                            "options": "#yggdrasil:equipment/item/boots",
                             "only_compatible": true
                         },
                         {
@@ -79,7 +79,7 @@
                         },
                         {
                             "function": "minecraft:enchant_randomly",
-                            "options": "#yggdrasil:equipment/boots",
+                            "options": "#yggdrasil:equipment/item/boots",
                             "only_compatible": true
                         },
                         {
@@ -123,7 +123,7 @@
                         },
                         {
                             "function": "minecraft:enchant_randomly",
-                            "options": "#yggdrasil:equipment/boots",
+                            "options": "#yggdrasil:equipment/item/boots",
                             "only_compatible": true
                         },
                         {

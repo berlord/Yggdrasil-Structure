@@ -5,7 +5,7 @@
       "rolls": 1,
       "entries": [
         {
-          "type": "minecraft:alternatives",
+          "type": "minecraft:sequence",
           "children": [
             {
               "type": "minecraft:loot_table",

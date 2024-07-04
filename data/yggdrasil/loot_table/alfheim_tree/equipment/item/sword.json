@@ -24,7 +24,7 @@
                         },
                         {
                             "function": "minecraft:enchant_randomly",
-                            "options": "#yggdrasil:equipment/sword",
+                            "options": "#yggdrasil:equipment/item/sword",
                             "only_compatible": true
                         }
                     ]
@@ -48,7 +48,7 @@
                         },
                         {
                             "function": "minecraft:enchant_randomly",
-                            "options": "#yggdrasil:equipment/sword",
+                            "options": "#yggdrasil:equipment/item/sword",
                             "only_compatible": true
                         }
                     ]
@@ -72,7 +72,7 @@
                         },
                         {
                             "function": "minecraft:enchant_randomly",
-                            "options": "#yggdrasil:equipment/sword",
+                            "options": "#yggdrasil:equipment/item/sword",
                             "only_compatible": true
                         }
                     ]
