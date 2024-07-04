@@ -24,7 +24,7 @@
                         },
                         {
                             "function": "minecraft:enchant_randomly",
-                            "options": "#yggdrasil:equipment/bow",
+                            "options": "#yggdrasil:equipment/item/bow",
                             "only_compatible": true
                         }
                     ]
