@@ -1,0 +1,69 @@
+{
+    "loot_tables_to_eject": [
+        {
+            "data": "yggdrasil:alfheim_tree/spawner/key",
+            "weight": 3
+        },
+        {
+            "data": "yggdrasil:alfheim_tree/spawner/consumables",
+            "weight": 7
+        }
+    ],
+    "simultaneous_mobs": 4.0,
+    "simultaneous_mobs_added_per_player": 2.0,
+    "spawn_potentials": [
+        {
+            "data": {
+                "DeathLootTable": "yggdrasil:alfheim_tree/mob/ominous/warden",
+                "active_effects": [
+                    {
+                        "id": "minecraft:absorption",
+                        "duration": -1,
+                        "amplifier": 2,
+                        "show_particles": 0
+                    },
+                    {
+                        "id": "minecraft:fire_resistance",
+                        "duration": -1,
+                        "amplifier": 0,
+                        "show_particles": 0
+                    },
+                    {
+                        "id": "minecraft:regeneration",
+                        "duration": -1,
+                        "amplifier": 0,
+                        "show_particles": 0
+                    },
+                    {
+                        "id": "minecraft:wind_charged",
+                        "duration": -1,
+                        "amplifier": 1,
+                        "show_particles": 0
+                    },
+                    {
+                        "id": "minecraft:resistance",
+                        "duration": -1,
+                        "amplifier": 0,
+                        "show_particles": 0
+                    }
+                ],
+                "HandItems": [
+                    {},
+                    {
+                        "id": "minecraft:totem_of_undying",
+                        "count": 1
+                    }
+                ],
+                "HandDropChances": [
+                    0,
+                    0
+                ],
+                "entity": {
+                    "id": "minecraft:warden"
+                }
+            },
+            "weight": 1
+        }
+    ],
+    "ticks_between_spawn": 160
+}
