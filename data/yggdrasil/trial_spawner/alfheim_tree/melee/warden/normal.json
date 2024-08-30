@@ -9,18 +9,19 @@
       "weight": 7
     }
   ],
-  "simultaneous_mobs": 4.0,
-  "simultaneous_mobs_added_per_player": 2.0,
+  "simultaneous_mobs": 1.0,
+  "simultaneous_mobs_added_per_player": 0.0,
   "spawn_potentials": [
     {
       "data": {
-        "DeathLootTable": "yggdrasil:alfheim_tree/mob/normal/warden",
         "entity": {
+          "Health": 50,
+          "DeathLootTable": "yggdrasil:alfheim_tree/mob/normal/warden",
           "id": "minecraft:warden"
         }
       },
       "weight": 1
     }
   ],
-  "ticks_between_spawn": 160
+  "ticks_between_spawn": 300
 }

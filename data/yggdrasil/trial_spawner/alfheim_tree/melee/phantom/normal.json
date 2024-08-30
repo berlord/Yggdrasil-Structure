@@ -9,18 +9,24 @@
       "weight": 7
     }
   ],
-  "simultaneous_mobs": 4.0,
+  "simultaneous_mobs": 5.0,
   "simultaneous_mobs_added_per_player": 2.0,
   "spawn_potentials": [
     {
       "data": {
-        "DeathLootTable": "yggdrasil:alfheim_tree/mob/normal/phantom",
         "entity": {
+          "attributes": [
+            {
+              "id": "minecraft:knockback_resistance",
+              "base": 10
+            }
+          ],
+          "DeathLootTable": "yggdrasil:alfheim_tree/mob/normal/phantom",
           "id": "minecraft:phantom"
         }
       },
       "weight": 1
     }
   ],
-  "ticks_between_spawn": 160
+  "ticks_between_spawn": 80
 }

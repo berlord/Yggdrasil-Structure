@@ -9,13 +9,13 @@
       "weight": 7
     }
   ],
-  "simultaneous_mobs": 4.0,
+  "simultaneous_mobs": 2.0,
   "simultaneous_mobs_added_per_player": 2.0,
   "spawn_potentials": [
     {
       "data": {
-        "DeathLootTable": "yggdrasil:alfheim_tree/mob/normal/enderman",
         "entity": {
+          "DeathLootTable": "yggdrasil:alfheim_tree/mob/normal/enderman",
           "id": "minecraft:enderman"
         }
       },

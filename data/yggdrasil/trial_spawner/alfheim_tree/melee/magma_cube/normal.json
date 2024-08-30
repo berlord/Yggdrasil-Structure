@@ -9,18 +9,28 @@
       "weight": 7
     }
   ],
-  "simultaneous_mobs": 4.0,
+  "simultaneous_mobs": 7.0,
   "simultaneous_mobs_added_per_player": 2.0,
   "spawn_potentials": [
     {
       "data": {
-        "DeathLootTable": "yggdrasil:alfheim_tree/mob/normal/magma_cube",
         "entity": {
+          "attributes": [
+            {
+              "id": "minecraft:attack_damage",
+              "base": 5
+            },
+            {
+              "id": "minecraft:knockback_resistance",
+              "base": 10
+            }
+          ],
+          "DeathLootTable": "yggdrasil:alfheim_tree/mob/normal/magma_cube",
           "id": "minecraft:magma_cube"
         }
       },
       "weight": 1
     }
   ],
-  "ticks_between_spawn": 160
+  "ticks_between_spawn": 70
 }
