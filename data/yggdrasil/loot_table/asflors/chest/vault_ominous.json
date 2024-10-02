@@ -1,0 +1,151 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:bow",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_name",
+                            "entity": "this",
+                            "target": "item_name",
+                            "name": {
+                                "text": "Ragnarök Bow",
+                                "color": "gold"
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_enchantments",
+                            "enchantments": {
+                                "minecraft:infinity": 0
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "enchantment_glint_override": true,
+                                "minecraft:unbreakable": {
+                                    "show_in_tooltip": true
+                                }
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_lore",
+                            "entity": "this",
+                            "lore": [
+                                {
+                                    "text": "Unbreakable and infused with",
+                                    "color": "#707070"
+                                },
+                                {
+                                    "text": "ancient power this legendary weapon",
+                                    "color": "#707070"
+                                },
+                                {
+                                    "text": "was left by a time traveler to",
+                                    "color": "#707070"
+                                },
+                                {
+                                    "text": "shape destiny itself.",
+                                    "color": "#707070"
+                                }
+                            ],
+                            "mode": "replace_all"
+                        },
+                        {
+                            "function": "minecraft:set_attributes",
+                            "modifiers": [
+                                {
+                                    "id": "yggdrasil.aflors.ragnarok.speed",
+                                    "attribute": "minecraft:generic.movement_speed",
+                                    "amount": 0.75,
+                                    "operation": "add_multiplied_total",
+                                    "slot": "hand"
+                                },
+                                {
+                                    "id": "yggdrasil.aflors.ragnarok.sneak_speed",
+                                    "attribute": "minecraft:player.sneaking_speed",
+                                    "amount": 1.5,
+                                    "operation": "add_multiplied_total",
+                                    "slot": "hand"
+                                },
+                                {
+                                    "id": "yggdrasil.aflors.ragnarok.gravitty",
+                                    "attribute": "minecraft:generic.gravity",
+                                    "amount": -0.55,
+                                    "operation": "add_multiplied_total",
+                                    "slot": "hand"
+                                },
+                                {
+                                    "id": "yggdrasil.aflors.ragnarok.safe",
+                                    "attribute": "minecraft:generic.safe_fall_distance",
+                                    "amount": 8,
+                                    "operation": "add_value",
+                                    "slot": "hand"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:written_book",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_name",
+                            "entity": "this",
+                            "target": "item_name",
+                            "name": "Secret Chapter 9: The Awakening"
+                        },
+                        {
+                            "function": "minecraft:set_written_book_pages",
+                            "pages": [
+                                {
+                                    "text": "In my solitude, I discovered a glimmer of hope to escape the grasp of immortality. Ancient whispers speak of a way to defy the gods themselves, to break the chains of time that bind me. The path is obscure and fraught with uncertainty. I do not know where it will lead me, but the very idea of a possible end ignites a spark within me that I thought long extinguished."
+                                }
+                            ],
+                            "mode": "replace_all"
+                        },
+                        {
+                            "function": "minecraft:set_lore",
+                            "entity": "this",
+                            "lore": [
+                                {
+                                    "text": ""
+                                },
+                                {
+                                    "text": "(Quest Item - Story)",
+                                    "color": "#707070",
+                                    "bold": false,
+                                    "italic": false,
+                                    "underlined": false,
+                                    "strikethrough": false,
+                                    "obfuscated": false
+                                },
+                                {
+                                    "text": "[Village of Asflors]",
+                                    "color": "#ffcbfc",
+                                    "bold": false,
+                                    "italic": false,
+                                    "underlined": false,
+                                    "strikethrough": false,
+                                    "obfuscated": false
+                                }
+                            ],
+                            "mode": "replace_all"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "random_sequence": "yggdrasil:asflors/chest"
+}
