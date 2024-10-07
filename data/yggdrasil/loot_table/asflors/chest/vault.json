@@ -12,8 +12,8 @@
                     "functions": [
                         {
                             "function": "minecraft:enchant_randomly",
-                            "options": "#yggdrasil:structure/asflors/legendary",
-                            "only_compatible": true
+                            "options": "#yggdrasil:structure/asflors/vault",
+                            "only_compatible": false
                         }
                     ]
                 }

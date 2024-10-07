@@ -6,22 +6,21 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:bow",
+                    "name": "minecraft:diamond_sword",
                     "functions": [
                         {
                             "function": "minecraft:set_name",
                             "entity": "this",
                             "target": "item_name",
                             "name": {
-                                "text": "Ragnarök Bow",
+                                "text": "The Real Asflors Sword",
                                 "color": "gold"
                             }
                         },
                         {
-                            "function": "minecraft:set_enchantments",
-                            "enchantments": {
-                                "minecraft:infinity": 0
-                            }
+                            "function": "minecraft:enchant_randomly",
+                            "options": "#yggdrasil:structure/asflors/ominous_vault",
+                            "only_compatible": false
                         },
                         {
                             "function": "minecraft:set_components",
