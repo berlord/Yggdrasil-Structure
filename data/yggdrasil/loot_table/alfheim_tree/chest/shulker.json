@@ -259,7 +259,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "value": "yggdrasil:alfheim_tree/chest/compound/enchant_common",
+          "value": "yggdrasil:alfheim_tree/enchanted_book/common",
           "weight": 2,
           "conditions": [
             {

@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "value": "yggdrasil:alfheim_tree/chest/compound/reward_common",
+          "value": "yggdrasil:alfheim_tree/enchanted_book/common",
           "weight": 8
         }
       ],
@@ -17,7 +17,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "value": "yggdrasil:alfheim_tree/chest/compound/enchant_rare",
+          "value": "yggdrasil:alfheim_tree/enchanted_book/rare",
           "weight": 2,
           "conditions": [
             {

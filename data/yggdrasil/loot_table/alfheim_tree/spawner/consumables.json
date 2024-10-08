@@ -55,6 +55,38 @@
                 },
                 {
                     "type": "minecraft:item",
+                    "name": "minecraft:golden_apple",
+                    "weight": 4,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": {
+                                "type": "minecraft:uniform",
+                                "min": 1,
+                                "max": 2
+                            },
+                            "add": false
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:diamond",
+                    "weight": 3,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": {
+                                "type": "minecraft:uniform",
+                                "min": 1,
+                                "max": 2
+                            },
+                            "add": false
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
                     "name": "minecraft:bread",
                     "weight": 3,
                     "functions": [
@@ -123,12 +155,12 @@
             "entries": [
                 {
                     "type": "minecraft:loot_table",
-                    "value": "yggdrasil:alfheim_tree/chest/compound/reward_rare",
+                    "value": "yggdrasil:alfheim_tree/chest/reward/rare",
                     "weight": 2
                 },
                 {
                     "type": "minecraft:loot_table",
-                    "value": "yggdrasil:alfheim_tree/chest/compound/reward_common",
+                    "value": "yggdrasil:alfheim_tree/chest/reward/common",
                     "weight": 8
                 }
             ]

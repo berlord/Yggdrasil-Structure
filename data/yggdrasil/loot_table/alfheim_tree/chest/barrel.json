@@ -9,12 +9,12 @@
           "children": [
             {
               "type": "minecraft:loot_table",
-              "value": "yggdrasil:alfheim_tree/chest/compound/barrel_common",
+              "value": "yggdrasil:alfheim_tree/chest/barrel/common",
               "weight": 1
             },
             {
               "type": "minecraft:loot_table",
-              "value": "yggdrasil:alfheim_tree/chest/compound/barrel_rare",
+              "value": "yggdrasil:alfheim_tree/chest/barrel/rare",
               "weight": 1
             }
           ]

@@ -7,7 +7,7 @@
             "entries": [
                 {
                     "type": "minecraft:loot_table",
-                    "value": "yggdrasil:alfheim_tree/equipment/item/bow"
+                    "value": "yggdrasil:alfheim_tree/equipment/normal/item/trident"
                 }
             ]
         },
@@ -17,7 +17,7 @@
             "entries": [
                 {
                     "type": "minecraft:loot_table",
-                    "value": "yggdrasil:alfheim_tree/equipment/item/helmet"
+                    "value": "yggdrasil:alfheim_tree/equipment/normal/item/helmet"
                 }
             ]
         },
@@ -27,7 +27,7 @@
             "entries": [
                 {
                     "type": "minecraft:loot_table",
-                    "value": "yggdrasil:alfheim_tree/equipment/item/chestplate"
+                    "value": "yggdrasil:alfheim_tree/equipment/normal/item/chestplate"
                 }
             ]
         },
@@ -37,7 +37,7 @@
             "entries": [
                 {
                     "type": "minecraft:loot_table",
-                    "value": "yggdrasil:alfheim_tree/equipment/item/leggings"
+                    "value": "yggdrasil:alfheim_tree/equipment/normal/item/leggings"
                 }
             ]
         },
@@ -47,7 +47,7 @@
             "entries": [
                 {
                     "type": "minecraft:loot_table",
-                    "value": "yggdrasil:alfheim_tree/equipment/item/boots"
+                    "value": "yggdrasil:alfheim_tree/equipment/normal/item/boots"
                 }
             ]
         }

@@ -6,62 +6,14 @@
             "bonus_rolls": 0,
             "entries": [
                 {
-                    "type": "minecraft:item",
-                    "name": "minecraft:trial_key",
-                    "weight": 5,
-                    "functions": [
-                        {
-                            "function": "minecraft:set_name",
-                            "target": "item_name",
-                            "name": "Alfheim Key"
-                        },
-                        {
-                            "function": "minecraft:set_lore",
-                            "entity": "this",
-                            "lore": [
-                                {
-                                    "text": "This key can only be used in the Alfheim tree",
-                                    "color": "gray",
-                                    "bold": false,
-                                    "italic": false
-                                }
-                            ],
-                            "mode": "append"
-                        },
-                        {
-                            "function": "minecraft:set_custom_data",
-                            "tag": "{yggdrasil:{dungeon:\"alfheim_tree\"}}"
-                        }
-                    ]
+                    "type": "minecraft:loot_table",
+                    "value": "yggdrasil:alfheim_tree/key/normal_key",
+                    "weight": 50
                 },
                 {
-                    "type": "minecraft:item",
-                    "name": "minecraft:ominous_trial_key",
-                    "weight": 1,
-                    "functions": [
-                        {
-                            "function": "minecraft:set_name",
-                            "target": "item_name",
-                            "name": "Ominous Alfheim Key"
-                        },
-                        {
-                            "function": "minecraft:set_lore",
-                            "entity": "this",
-                            "lore": [
-                                {
-                                    "text": "This key can only be used in the Alfheim tree",
-                                    "color": "gray",
-                                    "bold": false,
-                                    "italic": false
-                                }
-                            ],
-                            "mode": "append"
-                        },
-                        {
-                            "function": "minecraft:set_custom_data",
-                            "tag": "{yggdrasil:{dungeon:\"alfheim_tree\"}}"
-                        }
-                    ]
+                    "type": "minecraft:loot_table",
+                    "value": "yggdrasil:alfheim_tree/key/ominous_key",
+                    "weight": 1
                 }
             ]
         }
