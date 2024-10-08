@@ -58,29 +58,29 @@
                             "function": "minecraft:set_attributes",
                             "modifiers": [
                                 {
-                                    "id": "yggdrasil.aflors.ragnarok.speed",
-                                    "attribute": "minecraft:generic.movement_speed",
+                                    "id": "yggdrasil.asflors.ragnarok.speed",
+                                    "attribute": "minecraft:movement_speed",
                                     "amount": 0.75,
                                     "operation": "add_multiplied_total",
                                     "slot": "hand"
                                 },
                                 {
-                                    "id": "yggdrasil.aflors.ragnarok.sneak_speed",
-                                    "attribute": "minecraft:player.sneaking_speed",
+                                    "id": "yggdrasil.asflors.ragnarok.sneak_speed",
+                                    "attribute": "minecraft:sneaking_speed",
                                     "amount": 1.5,
                                     "operation": "add_multiplied_total",
                                     "slot": "hand"
                                 },
                                 {
-                                    "id": "yggdrasil.aflors.ragnarok.gravitty",
-                                    "attribute": "minecraft:generic.gravity",
+                                    "id": "yggdrasil.asflors.ragnarok.gravitty",
+                                    "attribute": "minecraft:gravity",
                                     "amount": -0.55,
                                     "operation": "add_multiplied_total",
                                     "slot": "hand"
                                 },
                                 {
-                                    "id": "yggdrasil.aflors.ragnarok.safe",
-                                    "attribute": "minecraft:generic.safe_fall_distance",
+                                    "id": "yggdrasil.asflors.ragnarok.safe",
+                                    "attribute": "minecraft:safe_fall_distance",
                                     "amount": 8,
                                     "operation": "add_value",
                                     "slot": "hand"
