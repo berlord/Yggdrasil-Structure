@@ -1,0 +1,352 @@
+{
+    "pools": [
+        {
+            "rolls": 2,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:written_book",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_name",
+                            "entity": "this",
+                            "target": "item_name",
+                            "name": "Chapter 1: The Arrival"
+                        },
+                        {
+                            "function": "minecraft:set_written_book_pages",
+                            "pages": [
+                                {
+                                    "text": "I descended among mortals, curious about their fleeting lives. The village welcomed me without knowing my true nature. Their sincere smiles and innocent laughter awakened feelings in me long forgotten over millennia."
+                                }
+                            ],
+                            "mode": "replace_all"
+                        },
+                        {
+                            "function": "minecraft:set_lore",
+                            "entity": "this",
+                            "lore": [
+                                {
+                                    "text": ""
+                                },
+                                {
+                                    "text": "(Quest Item - Story)",
+                                    "color": "#707070",
+                                    "bold": false,
+                                    "italic": false,
+                                    "underlined": false,
+                                    "strikethrough": false,
+                                    "obfuscated": false
+                                },
+                                {
+                                    "text": "[Village of Asflors]",
+                                    "color": "#ffcbfc",
+                                    "bold": false,
+                                    "italic": false,
+                                    "underlined": false,
+                                    "strikethrough": false,
+                                    "obfuscated": false
+                                }
+                            ],
+                            "mode": "replace_all"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:written_book",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_name",
+                            "entity": "this",
+                            "target": "item_name",
+                            "name": "Chapter 2: The Discovery"
+                        },
+                        {
+                            "function": "minecraft:set_written_book_pages",
+                            "pages": [
+                                {
+                                    "text": "As seasons passed, I learned their customs and shared their joys. Together, we celebrated harvests and told stories by the fire. Each moment was a treasure, a new lesson on the beauty of mortality."
+                                }
+                            ],
+                            "mode": "replace_all"
+                        },
+                        {
+                            "function": "minecraft:set_lore",
+                            "entity": "this",
+                            "lore": [
+                                {
+                                    "text": ""
+                                },
+                                {
+                                    "text": "(Quest Item - Story)",
+                                    "color": "#707070",
+                                    "bold": false,
+                                    "italic": false,
+                                    "underlined": false,
+                                    "strikethrough": false,
+                                    "obfuscated": false
+                                },
+                                {
+                                    "text": "[Village of Asflors]",
+                                    "color": "#ffcbfc",
+                                    "bold": false,
+                                    "italic": false,
+                                    "underlined": false,
+                                    "strikethrough": false,
+                                    "obfuscated": false
+                                }
+                            ],
+                            "mode": "replace_all"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:written_book",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_name",
+                            "entity": "this",
+                            "target": "item_name",
+                            "name": "Chapter 3: Friendship"
+                        },
+                        {
+                            "function": "minecraft:set_written_book_pages",
+                            "pages": [
+                                {
+                                    "text": "I forged deep bonds with these fragile beings. Their simplicity touched me, and I found in them a family I had never known. The children followed me everywhere, eager for tales and knowledge."
+                                }
+                            ],
+                            "mode": "replace_all"
+                        },
+                        {
+                            "function": "minecraft:set_lore",
+                            "entity": "this",
+                            "lore": [
+                                {
+                                    "text": ""
+                                },
+                                {
+                                    "text": "(Quest Item - Story)",
+                                    "color": "#707070",
+                                    "bold": false,
+                                    "italic": false,
+                                    "underlined": false,
+                                    "strikethrough": false,
+                                    "obfuscated": false
+                                },
+                                {
+                                    "text": "[Village of Asflors]",
+                                    "color": "#ffcbfc",
+                                    "bold": false,
+                                    "italic": false,
+                                    "underlined": false,
+                                    "strikethrough": false,
+                                    "obfuscated": false
+                                }
+                            ],
+                            "mode": "replace_all"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:written_book",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_name",
+                            "entity": "this",
+                            "target": "item_name",
+                            "name": "Chapter 4: The Secret"
+                        },
+                        {
+                            "function": "minecraft:set_written_book_pages",
+                            "pages": [
+                                {
+                                    "text": "Despite my affection for them, I kept my identity hidden. Yet, I chose to share with the wisest among them the mystery of the hidden weapon. I entrusted him with this responsibility, knowing he would guard it with devotion."
+                                }
+                            ],
+                            "mode": "replace_all"
+                        },
+                        {
+                            "function": "minecraft:set_lore",
+                            "entity": "this",
+                            "lore": [
+                                {
+                                    "text": ""
+                                },
+                                {
+                                    "text": "(Quest Item - Story)",
+                                    "color": "#707070",
+                                    "bold": false,
+                                    "italic": false,
+                                    "underlined": false,
+                                    "strikethrough": false,
+                                    "obfuscated": false
+                                },
+                                {
+                                    "text": "[Village of Asflors]",
+                                    "color": "#ffcbfc",
+                                    "bold": false,
+                                    "italic": false,
+                                    "underlined": false,
+                                    "strikethrough": false,
+                                    "obfuscated": false
+                                }
+                            ],
+                            "mode": "replace_all"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:written_book",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_name",
+                            "entity": "this",
+                            "target": "item_name",
+                            "name": "Chapter 5: The Departure"
+                        },
+                        {
+                            "function": "minecraft:set_written_book_pages",
+                            "pages": [
+                                {
+                                    "text": "The time came for me to leave. I had watched my friends age and pass away, and the weight of eternity grew heavy once more. As I left the village, I felt a mix of sadness and hope, carrying with me the precious memories we had created."
+                                }
+                            ],
+                            "mode": "replace_all"
+                        },
+                        {
+                            "function": "minecraft:set_lore",
+                            "entity": "this",
+                            "lore": [
+                                {
+                                    "text": ""
+                                },
+                                {
+                                    "text": "(Quest Item - Story)",
+                                    "color": "#707070",
+                                    "bold": false,
+                                    "italic": false,
+                                    "underlined": false,
+                                    "strikethrough": false,
+                                    "obfuscated": false
+                                },
+                                {
+                                    "text": "[Village of Asflors]",
+                                    "color": "#ffcbfc",
+                                    "bold": false,
+                                    "italic": false,
+                                    "underlined": false,
+                                    "strikethrough": false,
+                                    "obfuscated": false
+                                }
+                            ],
+                            "mode": "replace_all"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:written_book",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_name",
+                            "entity": "this",
+                            "target": "item_name",
+                            "name": "Chapter 6: Solitude"
+                        },
+                        {
+                            "function": "minecraft:set_written_book_pages",
+                            "pages": [
+                                {
+                                    "text": "Away from the village, I found myself confronting my immortal solitude. I missed the laughter and voices. Yet, I knew that my departure would allow them to find their own path, without the influence of an eternal being."
+                                }
+                            ],
+                            "mode": "replace_all"
+                        },
+                        {
+                            "function": "minecraft:set_lore",
+                            "entity": "this",
+                            "lore": [
+                                {
+                                    "text": ""
+                                },
+                                {
+                                    "text": "(Quest Item - Story)",
+                                    "color": "#707070",
+                                    "bold": false,
+                                    "italic": false,
+                                    "underlined": false,
+                                    "strikethrough": false,
+                                    "obfuscated": false
+                                },
+                                {
+                                    "text": "[Village of Asflors]",
+                                    "color": "#ffcbfc",
+                                    "bold": false,
+                                    "italic": false,
+                                    "underlined": false,
+                                    "strikethrough": false,
+                                    "obfuscated": false
+                                }
+                            ],
+                            "mode": "replace_all"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:written_book",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_name",
+                            "entity": "this",
+                            "target": "item_name",
+                            "name": "Chapter 7: The Legacy"
+                        },
+                        {
+                            "function": "minecraft:set_written_book_pages",
+                            "pages": [
+                                {
+                                    "text": "I leave behind a discreet but powerful legacy. The last villager, guardian of the secret, lives his final moments. I hope that whoever finds this message will understand the value of time and the importance of the bonds woven between souls."
+                                }
+                            ],
+                            "mode": "replace_all"
+                        },
+                        {
+                            "function": "minecraft:set_lore",
+                            "entity": "this",
+                            "lore": [
+                                {
+                                    "text": ""
+                                },
+                                {
+                                    "text": "(Quest Item - Story)",
+                                    "color": "#707070",
+                                    "bold": false,
+                                    "italic": false,
+                                    "underlined": false,
+                                    "strikethrough": false,
+                                    "obfuscated": false
+                                },
+                                {
+                                    "text": "[Village of Asflors]",
+                                    "color": "#ffcbfc",
+                                    "bold": false,
+                                    "italic": false,
+                                    "underlined": false,
+                                    "strikethrough": false,
+                                    "obfuscated": false
+                                }
+                            ],
+                            "mode": "replace_all"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
