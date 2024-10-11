@@ -70,7 +70,7 @@
                                 {
                                     "id": "yggdrasil.asflors.sword.attack_speed",
                                     "attribute": "minecraft:attack_speed",
-                                    "amount": 0.35,
+                                    "amount": 0.15,
                                     "operation": "add_multiplied_base",
                                     "slot": "hand"
                                 },
