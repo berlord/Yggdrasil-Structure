@@ -7,30 +7,85 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:trial_key",
+                    "name": "minecraft:leather_horse_armor",
                     "weight": 5,
                     "functions": [
                         {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "!minecraft:attribute_modifiers": {},
+                                "!minecraft:equippable": {},
+                                "!minecraft:max_damage": {},
+                                "!minecraft:damage": {},
+                                "minecraft:item_model": "minecraft:trial_key",
+                                "minecraft:hide_additional_tooltip": {},
+                                "minecraft:rarity": "epic",
+                                "minecraft:dyed_color": {
+                                    "rgb": 12517631,
+                                    "show_in_tooltip": false
+                                }
+                            }
+                        },
+                        {
                             "function": "minecraft:set_name",
                             "target": "item_name",
-                            "name": "Alfheim Key"
+                            "name": {
+                                "translate": "item.yggdrasil.alfheim_key",
+                                "fallback": "Alfheim Key"
+                            }
                         },
                         {
                             "function": "minecraft:set_lore",
                             "entity": "this",
                             "lore": [
                                 {
-                                    "text": "This key can only be used in the Alfheim tree",
+                                    "translate": "item.yggdrasil.alfheim_key.lore1",
+                                    "fallback": "This key can only be used on",
                                     "color": "gray",
                                     "bold": false,
                                     "italic": false
+                                },
+                                {
+                                    "translate": "item.yggdrasil.alfheim_key.lore2",
+                                    "fallback": "Vault in the Alfheim tree",
+                                    "color": "gray",
+                                    "bold": false,
+                                    "italic": false
+                                },
+                                {
+                                    "text": ""
+                                },
+                                {
+                                    "translate": "item.yggdrasil.structure_item.vault",
+                                    "fallback": "(Structure Item - Vault)",
+                                    "color": "#707070",
+                                    "bold": false,
+                                    "italic": false,
+                                    "underlined": false,
+                                    "strikethrough": false,
+                                    "obfuscated": false
+                                },
+                                {
+                                    "translate": "item.yggdrasil.location.alfheim_tree",
+                                    "fallback": "[Alfheim Tree]",
+                                    "color": "#9a0031",
+                                    "bold": false,
+                                    "italic": false,
+                                    "underlined": false,
+                                    "strikethrough": false,
+                                    "obfuscated": false
                                 }
                             ],
                             "mode": "append"
                         },
                         {
                             "function": "minecraft:set_custom_data",
-                            "tag": "{yggdrasil:{dungeon:\"alfheim_tree\"}}"
+                            "tag": {
+                                "yggdrasil": {
+                                    "dungeon": "alfheim",
+                                    "ominous": false
+                                }
+                            }
                         }
                     ]
                 }

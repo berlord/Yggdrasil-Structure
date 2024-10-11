@@ -4,12 +4,11 @@
             "trigger": "minecraft:player_interacted_with_entity",
             "conditions": {
                 "item": {
-                    "items": "minecraft:iron_sword",
                     "components": {
                         "minecraft:custom_data": {
                             "yggdrasil": {
                                 "quest_item": true,
-                                "quest_id": "yggdrasil.asflors.rupture_sword"
+                                "quest_id": "yggdrasil.asflors.rune_of_rupture"
                             }
                         }
                     }

@@ -7,21 +7,35 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:trial_key",
+                    "name": "minecraft:leather_horse_armor",
                     "weight": 1,
                     "functions": [
                         {
                             "function": "minecraft:set_name",
                             "target": "item_name",
-                            "name": "Runic Key"
+                            "name": {
+                                "translate": "item.yggdrasil.runic_key",
+                                "fallback": "Runic Key"
+                            }
                         },
                         {
                             "function": "minecraft:set_components",
                             "components": {
                                 "minecraft:rarity": "epic",
-                                "minecraft:enchantment_glint_override": true,
+                                "minecraft:item_model": "minecraft:ominous_trial_key",
+                                "minecraft:dyed_color": {
+                                    "rgb": 16711680,
+                                    "show_in_tooltip": false
+                                },
+                                "!attribute_modifiers": {},
+                                "!equippable": {},
+                                "!max_damage": {},
+                                "!damage": {},
+                                "minecraft:hide_additional_tooltip": {},
                                 "minecraft:custom_data": {
                                     "yggdrasil": {
+                                        "dungeon": "runic_fracture",
+                                        "ominous": false,
                                         "quest_item": true,
                                         "quest_id": "yggdrasil.runic_fracture.key"
                                     }
@@ -33,7 +47,8 @@
                             "entity": "this",
                             "lore": [
                                 {
-                                    "text": "You'll show your bravery!",
+                                    "translate": "item.yggdrasil.runic_key.lore1",
+                                    "fallback": "You'll show your bravery!",
                                     "color": "#a0a0a0",
                                     "bold": false,
                                     "italic": false,
@@ -42,7 +57,8 @@
                                     "obfuscated": false
                                 },
                                 {
-                                    "text": "I give you my trust",
+                                    "translate": "item.yggdrasil.runic_key.lore2",
+                                    "fallback": "I give you my trust",
                                     "color": "#a0a0a0",
                                     "bold": false,
                                     "italic": false,
@@ -54,7 +70,8 @@
                                     "text": ""
                                 },
                                 {
-                                    "text": "(Quest Item - Vault)",
+                                    "translate": "item.yggdrasil.quest_item.vault",
+                                    "fallback": "(Quest Item - Vault)",
                                     "color": "#707070",
                                     "bold": false,
                                     "italic": false,
@@ -63,7 +80,8 @@
                                     "obfuscated": false
                                 },
                                 {
-                                    "text": "[Runic Fracture]",
+                                    "translate": "item.yggdrasil.location.runic_fracture",
+                                    "fallback": "[Runic Fracture]",
                                     "color": "#e7e7e7",
                                     "bold": false,
                                     "italic": false,
