@@ -48,35 +48,35 @@
                             "modifiers": [
                                 {
                                     "id": "minecraft.attack",
-                                    "attribute": "minecraft:generic.attack_damage",
+                                    "attribute": "minecraft:attack_damage",
                                     "amount": 7,
                                     "operation": "add_value",
                                     "slot": "hand"
                                 },
                                 {
                                     "id": "minecraft.attack_speed",
-                                    "attribute": "minecraft:generic.attack_speed",
+                                    "attribute": "minecraft:attack_speed",
                                     "amount": 1.6,
                                     "operation": "add_value",
                                     "slot": "hand"
                                 },
                                 {
                                     "id": "yggdrasil.asflors.sword.ratio",
-                                    "attribute": "minecraft:player.sweeping_damage_ratio",
+                                    "attribute": "minecraft:sweeping_damage_ratio",
                                     "amount": 0.75,
                                     "operation": "add_multiplied_total",
                                     "slot": "hand"
                                 },
                                 {
                                     "id": "yggdrasil.asflors.sword.attack_speed",
-                                    "attribute": "minecraft:generic.attack_speed",
+                                    "attribute": "minecraft:attack_speed",
                                     "amount": 0.15,
                                     "operation": "add_multiplied_base",
                                     "slot": "hand"
                                 },
                                 {
                                     "id": "yggdrasil.asflors.sword.damage",
-                                    "attribute": "minecraft:generic.attack_damage",
+                                    "attribute": "minecraft:attack_damage",
                                     "amount": 0.25,
                                     "operation": "add_multiplied_base",
                                     "slot": "hand"

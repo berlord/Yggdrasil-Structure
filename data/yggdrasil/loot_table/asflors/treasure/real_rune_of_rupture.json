@@ -6,7 +6,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:amethyst_shard",
+                    "name": "minecraft:leather_horse_armor",
                     "functions": [
                         {
                             "function": "minecraft:set_name",
@@ -18,8 +18,22 @@
                             }
                         },
                         {
+                            "function": "minecraft:set_attributes",
+                            "modifiers": [],
+                            "replace": true
+                        },
+                        {
                             "function": "minecraft:set_components",
                             "components": {
+                                "minecraft:item_model": "minecraft:amethyst_shard",
+                                "minecraft:dyed_color": {
+                                    "rgb": 9764649,
+                                    "show_in_tooltip": false
+                                },
+                                "!attribute_modifiers": {},
+                                "!equippable": {},
+                                "!max_damage": {},
+                                "!damage": {},
                                 "minecraft:rarity": "epic",
                                 "minecraft:enchantment_glint_override": true,
                                 "minecraft:custom_data": {

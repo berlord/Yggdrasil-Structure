@@ -7,7 +7,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:ominous_trial_key",
+                    "name": "minecraft:leather_horse_armor",
                     "weight": 1,
                     "functions": [
                         {
@@ -22,6 +22,16 @@
                             "function": "minecraft:set_components",
                             "components": {
                                 "minecraft:rarity": "epic",
+                                "minecraft:item_model": "minecraft:ominous_trial_key",
+                                "minecraft:dyed_color": {
+                                    "rgb": 16711680,
+                                    "show_in_tooltip": false
+                                },
+                                "!attribute_modifiers": {},
+                                "!equippable": {},
+                                "!max_damage": {},
+                                "!damage": {},
+                                "minecraft:hide_additional_tooltip": {},
                                 "minecraft:custom_data": {
                                     "yggdrasil": {
                                         "dungeon": "runic_fracture",

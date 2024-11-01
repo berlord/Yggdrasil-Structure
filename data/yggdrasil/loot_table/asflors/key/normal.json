@@ -7,7 +7,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:trial_key",
+                    "name": "minecraft:leather_horse_armor",
                     "weight": 3,
                     "functions": [
                         {
@@ -21,6 +21,16 @@
                         {
                             "function": "minecraft:set_components",
                             "components": {
+                                "minecraft:item_model": "minecraft:trial_key",
+                                "minecraft:dyed_color": {
+                                    "rgb": 16777215,
+                                    "show_in_tooltip": false
+                                },
+                                "!attribute_modifiers": {},
+                                "!equippable": {},
+                                "!max_damage": {},
+                                "!damage": {},
+                                "minecraft:hide_additional_tooltip": {},
                                 "minecraft:rarity": "epic",
                                 "minecraft:custom_data": {
                                     "yggdrasil": {
