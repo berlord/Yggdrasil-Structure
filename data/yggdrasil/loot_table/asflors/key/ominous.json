@@ -6,7 +6,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:leather_horse_armor",
+                    "name": "minecraft:ominous_trial_key",
                     "weight": 1,
                     "functions": [
                         {
@@ -20,17 +20,7 @@
                         {
                             "function": "minecraft:set_components",
                             "components": {
-                                "minecraft:item_model": "minecraft:ominous_trial_key",
-                                "minecraft:hide_additional_tooltip": {},
                                 "minecraft:rarity": "epic",
-                                "!attribute_modifiers": {},
-                                "!equippable": {},
-                                "!max_damage": {},
-                                "!damage": {},
-                                "dyed_color": {
-                                    "rgb": 16776960,
-                                    "show_in_tooltip": false
-                                },
                                 "minecraft:custom_data": {
                                     "yggdrasil": {
                                         "dungeon": "asflors",
