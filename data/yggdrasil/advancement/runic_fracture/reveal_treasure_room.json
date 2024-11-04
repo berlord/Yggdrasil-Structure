@@ -1,0 +1,32 @@
+{
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:player_interacted_with_entity",
+			"conditions": {
+				"item": {
+					"components": {
+						"minecraft:custom_data": {
+							"yggdrasil": {
+								"quest_item": true,
+								"quest_id": "yggdrasil.asflors.real_rune_of_rupture"
+							}
+						}
+					}
+				},
+				"entity": [
+					{
+						"condition": "minecraft:entity_properties",
+						"entity": "this",
+						"predicate": {
+							"type": "minecraft:interaction",
+							"nbt": "{Tags:[\"yggdrasil.aslors.runic_underground\"]}"
+						}
+					}
+				]
+			}
+		}
+	},
+	"rewards": {
+		"function": "yggdrasil:runic_fracture/reveal_treasure_room"
+	}
+}
