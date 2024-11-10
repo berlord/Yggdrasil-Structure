@@ -25,31 +25,31 @@
 							"base": 10
 						}
 					],
-					"DeathLootTable": "yggdrasil:alfheim_tree/mob/ominous/breeze",
+					"DeathLootTable": "yggdrasil:generic/mob/ominous/breeze",
 					"active_effects": [
 						{
 							"id": "minecraft:absorption",
 							"duration": -1,
 							"amplifier": 2,
-							"show_particles": 0
+							"show_particles": false
 						},
 						{
 							"id": "minecraft:fire_resistance",
 							"duration": -1,
 							"amplifier": 0,
-							"show_particles": 0
+							"show_particles": false
 						},
 						{
 							"id": "minecraft:wind_charged",
 							"duration": -1,
 							"amplifier": 1,
-							"show_particles": 0
+							"show_particles": false
 						},
 						{
 							"id": "minecraft:resistance",
 							"duration": -1,
 							"amplifier": 0,
-							"show_particles": 0
+							"show_particles": false
 						}
 					],
 					"HandItems": [

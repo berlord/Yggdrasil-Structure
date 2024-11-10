@@ -1,0 +1,15 @@
+{
+	"structures": [
+		{
+			"structure": "yggdrasil:cubeoid",
+			"weight": 1
+		}
+	],
+	"placement": {
+		"type": "minecraft:random_spread",
+		"salt": 41518741,
+		"spread_type": "linear",
+		"spacing": 20,
+		"separation": 15
+	}
+}

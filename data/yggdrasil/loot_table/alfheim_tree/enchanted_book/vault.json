@@ -11,7 +11,7 @@
 					"functions": [
 						{
 							"function": "minecraft:enchant_randomly",
-							"options": "#yggdrasil:structure/alfheim/vault",
+							"options": "#yggdrasil:structure/alfheim_tree/vault",
 							"only_compatible": true
 						}
 					]

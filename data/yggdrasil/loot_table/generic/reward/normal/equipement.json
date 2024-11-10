@@ -1,0 +1,337 @@
+{
+	"type": "minecraft:chest",
+	"pools": [
+		{
+			"rolls": 1,
+			"bonus_rolls": 0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:leather_boots",
+					"weight": 6,
+					"functions": [
+						{
+							"function": "minecraft:enchant_with_levels",
+							"levels": { "min": 0, "max": 12 },
+							"options": "#minecraft:non_treasure"
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:leather_chestplate",
+					"weight": 6,
+					"functions": [
+						{
+							"function": "minecraft:enchant_with_levels",
+							"levels": { "min": 0, "max": 12 },
+							"options": "#minecraft:non_treasure"
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:leather_leggings",
+					"weight": 6,
+					"functions": [
+						{
+							"function": "minecraft:enchant_with_levels",
+							"levels": { "min": 0, "max": 12 },
+							"options": "#minecraft:non_treasure"
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:leather_helmet",
+					"weight": 6,
+					"functions": [
+						{
+							"function": "minecraft:enchant_with_levels",
+							"levels": { "min": 0, "max": 12 },
+							"options": "#minecraft:non_treasure"
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:wooden_sword",
+					"weight": 6,
+					"functions": [
+						{
+							"function": "minecraft:enchant_with_levels",
+							"levels": { "min": 0, "max": 12 },
+							"options": "#minecraft:non_treasure"
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:wooden_shovel",
+					"weight": 6,
+					"functions": [
+						{
+							"function": "minecraft:enchant_with_levels",
+							"levels": { "min": 0, "max": 12 },
+							"options": "#minecraft:non_treasure"
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:wooden_pickaxe",
+					"weight": 6,
+					"functions": [
+						{
+							"function": "minecraft:enchant_with_levels",
+							"levels": { "min": 0, "max": 12 },
+							"options": "#minecraft:non_treasure"
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:wooden_axe",
+					"weight": 6,
+					"functions": [
+						{
+							"function": "minecraft:enchant_with_levels",
+							"levels": { "min": 0, "max": 12 },
+							"options": "#minecraft:non_treasure"
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:wooden_hoe",
+					"weight": 6,
+					"functions": [
+						{
+							"function": "minecraft:enchant_with_levels",
+							"levels": { "min": 0, "max": 12 },
+							"options": "#minecraft:non_treasure"
+						}
+					]
+				},
+
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:chainmail_boots",
+					"weight": 4,
+					"functions": [
+						{
+							"function": "minecraft:enchant_with_levels",
+							"levels": { "min": 0, "max": 12 },
+							"options": "#minecraft:non_treasure"
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:chainmail_chestplate",
+					"weight": 4,
+					"functions": [
+						{
+							"function": "minecraft:enchant_with_levels",
+							"levels": { "min": 0, "max": 12 },
+							"options": "#minecraft:non_treasure"
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:chainmail_leggings",
+					"weight": 4,
+					"functions": [
+						{
+							"function": "minecraft:enchant_with_levels",
+							"levels": { "min": 0, "max": 12 },
+							"options": "#minecraft:non_treasure"
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:chainmail_helmet",
+					"weight": 4,
+					"functions": [
+						{
+							"function": "minecraft:enchant_with_levels",
+							"levels": { "min": 0, "max": 12 },
+							"options": "#minecraft:non_treasure"
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:stone_sword",
+					"weight": 4,
+					"functions": [
+						{
+							"function": "minecraft:enchant_with_levels",
+							"levels": { "min": 0, "max": 12 },
+							"options": "#minecraft:non_treasure"
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:stone_shovel",
+					"weight": 4,
+					"functions": [
+						{
+							"function": "minecraft:enchant_with_levels",
+							"levels": { "min": 0, "max": 12 },
+							"options": "#minecraft:non_treasure"
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:stone_pickaxe",
+					"weight": 4,
+					"functions": [
+						{
+							"function": "minecraft:enchant_with_levels",
+							"levels": { "min": 0, "max": 12 },
+							"options": "#minecraft:non_treasure"
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:stone_axe",
+					"weight": 4,
+					"functions": [
+						{
+							"function": "minecraft:enchant_with_levels",
+							"levels": { "min": 0, "max": 12 },
+							"options": "#minecraft:non_treasure"
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:stone_hoe",
+					"weight": 4,
+					"functions": [
+						{
+							"function": "minecraft:enchant_with_levels",
+							"levels": { "min": 0, "max": 12 },
+							"options": "#minecraft:non_treasure"
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:iron_boots",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "minecraft:enchant_with_levels",
+							"levels": { "min": 0, "max": 12 },
+							"options": "#minecraft:non_treasure"
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:iron_chestplate",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "minecraft:enchant_with_levels",
+							"levels": { "min": 0, "max": 12 },
+							"options": "#minecraft:non_treasure"
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:iron_leggings",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "minecraft:enchant_with_levels",
+							"levels": { "min": 0, "max": 12 },
+							"options": "#minecraft:non_treasure"
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:iron_helmet",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "minecraft:enchant_with_levels",
+							"levels": { "min": 0, "max": 12 },
+							"options": "#minecraft:non_treasure"
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:iron_sword",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "minecraft:enchant_with_levels",
+							"levels": { "min": 0, "max": 12 },
+							"options": "#minecraft:non_treasure"
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:iron_shovel",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "minecraft:enchant_with_levels",
+							"levels": { "min": 0, "max": 12 },
+							"options": "#minecraft:non_treasure"
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:iron_pickaxe",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "minecraft:enchant_with_levels",
+							"levels": { "min": 0, "max": 12 },
+							"options": "#minecraft:non_treasure"
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:iron_axe",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "minecraft:enchant_with_levels",
+							"levels": { "min": 0, "max": 12 },
+							"options": "#minecraft:non_treasure"
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:iron_hoe",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "minecraft:enchant_with_levels",
+							"levels": { "min": 0, "max": 12 },
+							"options": "#minecraft:non_treasure"
+						}
+					]
+				}
+			]
+		}
+	],
+	"random_sequence": "yggdrasil:alfheim_tree/spawner/consumables"
+}

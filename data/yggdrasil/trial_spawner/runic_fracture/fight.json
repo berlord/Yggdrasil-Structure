@@ -32,7 +32,7 @@
 					"id": "minecraft:zombie"
 				},
 				"equipment": {
-					"loot_table": "yggdrasil:alfheim_tree/equipment/ominous/melee",
+					"loot_table": "yggdrasil:generic/reward/ominous/equipement",
 					"slot_drop_chances": 0.0
 				}
 			},
@@ -62,7 +62,7 @@
 					"id": "minecraft:bogged"
 				},
 				"equipment": {
-					"loot_table": "yggdrasil:alfheim_tree/equipment/ominous/range",
+					"loot_table": "yggdrasil:generic/reward/ominous/equipement",
 					"slot_drop_chances": 0.0
 				}
 			},
