@@ -1,0 +1,16 @@
+{
+	"structures": [
+		{
+			"structure": "yggdrasil:runic_asflors",
+			"weight": 1
+		}
+	],
+	"placement": {
+		"type": "minecraft:random_spread",
+		"salt": 185942573,
+		"frequency": 0.85,
+		"spread_type": "linear",
+		"spacing": 60,
+		"separation": 45
+	}
+}
