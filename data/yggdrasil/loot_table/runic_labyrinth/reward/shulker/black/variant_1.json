@@ -6,7 +6,7 @@
 			"entries": [
 				{
 					"type": "minecraft:loot_table",
-					"value": "yggdrasil:asflors/key/normal",
+					"value": "yggdrasil:runic_labyrinth/key/normal",
 					"weight": 1,
 					"conditions": [
 						{
