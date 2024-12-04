@@ -18,151 +18,83 @@
 			]
 		},
 		{
-			"rolls": 1,
+			"rolls": {
+				"type": "minecraft:uniform",
+				"min": 3,
+				"max": 5
+			},
 			"entries": [
 				{
 					"type": "minecraft:item",
-					"name": "minecraft:arrow",
-					"weight": 4,
+					"name": "minecraft:diamond_sword",
+					"weight": 10,
 					"functions": [
 						{
-							"function": "minecraft:set_count",
-							"count": {
+							"function": "minecraft:enchant_with_levels",
+							"levels": {
 								"type": "minecraft:uniform",
-								"min": 2,
-								"max": 8
+								"min": 20,
+								"max": 30
 							}
 						}
 					]
 				},
 				{
 					"type": "minecraft:item",
-					"name": "minecraft:emerald",
-					"weight": 4,
+					"name": "minecraft:diamond_chestplate",
+					"weight": 8,
 					"functions": [
 						{
-							"function": "minecraft:set_count",
-							"count": {
+							"function": "minecraft:enchant_with_levels",
+							"levels": {
 								"type": "minecraft:uniform",
-								"min": 2,
-								"max": 4
+								"min": 20,
+								"max": 30
 							}
 						}
 					]
 				},
 				{
 					"type": "minecraft:item",
-					"name": "minecraft:iron_ingot",
-					"weight": 1,
+					"name": "minecraft:diamond_helmet",
+					"weight": 8,
 					"functions": [
 						{
-							"function": "minecraft:set_count",
-							"count": {
+							"function": "minecraft:enchant_with_levels",
+							"levels": {
 								"type": "minecraft:uniform",
-								"min": 1,
-								"max": 2
+								"min": 20,
+								"max": 30
 							}
 						}
 					]
 				},
 				{
 					"type": "minecraft:item",
-					"name": "minecraft:bone_meal",
-					"weight": 5,
-					"functions": [
-						{
-							"function": "minecraft:set_count",
-							"count": {
-								"type": "minecraft:uniform",
-								"min": 3,
-								"max": 5
-							}
-						}
-					]
-				},
-				{
-					"type": "minecraft:item",
-					"name": "minecraft:wheat",
-					"weight": 5,
-					"functions": [
-						{
-							"function": "minecraft:set_count",
-							"count": {
-								"type": "minecraft:uniform",
-								"min": 3,
-								"max": 8
-							}
-						}
-					]
-				},
-				{
-					"type": "minecraft:item",
-					"name": "minecraft:lapis_lazuli",
-					"weight": 5,
-					"functions": [
-						{
-							"function": "minecraft:set_count",
-							"count": {
-								"type": "minecraft:uniform",
-								"min": 4,
-								"max": 18
-							}
-						}
-					]
-				},
-				{
-					"type": "minecraft:item",
-					"name": "minecraft:glow_ink_sac",
+					"name": "minecraft:trident",
 					"weight": 3,
 					"functions": [
 						{
-							"function": "minecraft:set_count",
-							"count": {
+							"function": "minecraft:enchant_with_levels",
+							"levels": {
 								"type": "minecraft:uniform",
-								"min": 2,
-								"max": 5
+								"min": 15,
+								"max": 25
 							}
 						}
 					]
 				},
 				{
 					"type": "minecraft:item",
-					"name": "minecraft:torch",
-					"weight": 5,
+					"name": "minecraft:crossbow",
+					"weight": 8,
 					"functions": [
 						{
-							"function": "minecraft:set_count",
-							"count": {
-								"min": 6,
-								"max": 12
-							}
-						}
-					]
-				},
-				{
-					"type": "minecraft:item",
-					"name": "minecraft:amethyst_shard",
-					"weight": 3,
-					"functions": [
-						{
-							"function": "minecraft:set_count",
-							"count": {
-								"min": 1,
-								"max": 5
-							}
-						}
-					]
-				},
-				{
-					"type": "minecraft:item",
-					"name": "minecraft:honeycomb",
-					"weight": 2,
-					"functions": [
-						{
-							"function": "minecraft:set_count",
-							"count": {
-								"min": 1,
-								"max": 8
+							"function": "minecraft:enchant_with_levels",
+							"levels": {
+								"type": "minecraft:uniform",
+								"min": 20,
+								"max": 30
 							}
 						}
 					]
@@ -170,5 +102,5 @@
 			]
 		}
 	],
-	"random_sequence": "yggdrasil:asflors/chest"
+	"random_sequence": "yggdrasil:runic_labyrinth/reward"
 }

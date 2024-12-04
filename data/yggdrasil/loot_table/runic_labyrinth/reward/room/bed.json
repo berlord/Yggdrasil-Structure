@@ -2,49 +2,58 @@
 	"type": "minecraft:chest",
 	"pools": [
 		{
-			"rolls": 1,
-			"entries": [
-				{
-					"type": "minecraft:loot_table",
-					"value": "yggdrasil:runic_labyrinth/key/normal",
-					"weight": 1,
-					"conditions": [
-						{
-							"condition": "minecraft:random_chance",
-							"chance": 0.25
-						}
-					]
-				}
-			]
-		},
-		{
-			"rolls": 1,
+			"rolls": {
+				"type": "minecraft:uniform",
+				"min": 4,
+				"max": 8
+			},
+			"bonus_rolls": 0,
 			"entries": [
 				{
 					"type": "minecraft:item",
-					"name": "minecraft:arrow",
-					"weight": 4,
+					"name": "minecraft:red_bed",
+					"weight": 10
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:painting",
+					"weight": 15,
 					"functions": [
 						{
 							"function": "minecraft:set_count",
 							"count": {
 								"type": "minecraft:uniform",
-								"min": 2,
-								"max": 8
+								"min": 1,
+								"max": 3
 							}
 						}
 					]
 				},
 				{
 					"type": "minecraft:item",
-					"name": "minecraft:emerald",
-					"weight": 4,
+					"name": "minecraft:jukebox",
+					"weight": 5
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:music_disc_13",
+					"weight": 3
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:music_disc_cat",
+					"weight": 3
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:white_carpet",
+					"weight": 10,
 					"functions": [
 						{
 							"function": "minecraft:set_count",
 							"count": {
 								"type": "minecraft:uniform",
-								"min": 2,
+								"min": 1,
 								"max": 4
 							}
 						}
@@ -52,8 +61,43 @@
 				},
 				{
 					"type": "minecraft:item",
-					"name": "minecraft:iron_ingot",
-					"weight": 1,
+					"name": "minecraft:lantern",
+					"weight": 10,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"type": "minecraft:uniform",
+								"min": 1,
+								"max": 4
+							}
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:clock",
+					"weight": 8
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:item_frame",
+					"weight": 10,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"type": "minecraft:uniform",
+								"min": 1,
+								"max": 3
+							}
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:bookshelf",
+					"weight": 8,
 					"functions": [
 						{
 							"function": "minecraft:set_count",
@@ -64,111 +108,9 @@
 							}
 						}
 					]
-				},
-				{
-					"type": "minecraft:item",
-					"name": "minecraft:bone_meal",
-					"weight": 5,
-					"functions": [
-						{
-							"function": "minecraft:set_count",
-							"count": {
-								"type": "minecraft:uniform",
-								"min": 3,
-								"max": 5
-							}
-						}
-					]
-				},
-				{
-					"type": "minecraft:item",
-					"name": "minecraft:wheat",
-					"weight": 5,
-					"functions": [
-						{
-							"function": "minecraft:set_count",
-							"count": {
-								"type": "minecraft:uniform",
-								"min": 3,
-								"max": 8
-							}
-						}
-					]
-				},
-				{
-					"type": "minecraft:item",
-					"name": "minecraft:lapis_lazuli",
-					"weight": 5,
-					"functions": [
-						{
-							"function": "minecraft:set_count",
-							"count": {
-								"type": "minecraft:uniform",
-								"min": 4,
-								"max": 18
-							}
-						}
-					]
-				},
-				{
-					"type": "minecraft:item",
-					"name": "minecraft:glow_ink_sac",
-					"weight": 3,
-					"functions": [
-						{
-							"function": "minecraft:set_count",
-							"count": {
-								"type": "minecraft:uniform",
-								"min": 2,
-								"max": 5
-							}
-						}
-					]
-				},
-				{
-					"type": "minecraft:item",
-					"name": "minecraft:torch",
-					"weight": 5,
-					"functions": [
-						{
-							"function": "minecraft:set_count",
-							"count": {
-								"min": 6,
-								"max": 12
-							}
-						}
-					]
-				},
-				{
-					"type": "minecraft:item",
-					"name": "minecraft:amethyst_shard",
-					"weight": 3,
-					"functions": [
-						{
-							"function": "minecraft:set_count",
-							"count": {
-								"min": 1,
-								"max": 5
-							}
-						}
-					]
-				},
-				{
-					"type": "minecraft:item",
-					"name": "minecraft:honeycomb",
-					"weight": 2,
-					"functions": [
-						{
-							"function": "minecraft:set_count",
-							"count": {
-								"min": 1,
-								"max": 8
-							}
-						}
-					]
 				}
 			]
 		}
 	],
-	"random_sequence": "yggdrasil:asflors/chest"
+	"random_sequence": "yggdrasil:runic_labyrinth/reward"
 }
