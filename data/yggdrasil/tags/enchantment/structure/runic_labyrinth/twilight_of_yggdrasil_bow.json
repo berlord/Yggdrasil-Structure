@@ -1,3 +1,10 @@
 {
-	"values": ["#minecraft:non_treasure"]
+	"values": [
+		"minecraft:infinity",
+		"minecraft:mending",
+		"minecraft:piercing",
+		"minecraft:power",
+		"minecraft:punch",
+		"minecraft:quick_charge"
+	]
 }
