@@ -19,16 +19,28 @@
 							"function": "minecraft:set_written_book_pages",
 							"pages": [
 								{
-									"translate": "item.yggdrasil.dark_elves_chronicle.page1",
-									"fallback": "We, the Dark Elves, have always been different. While our cousins, the Light Elves, were worshipped for their natural connection to magic and nature, we were born rejected by that same magic. Our bodies, so different from theirs, were not predisposed to conventional magic, but we carried within us a darker, deeper gift."
+									"translate": "item.yggdrasil.dark_elves_chronicle.page1a",
+									"fallback": "We, the Dark Elves, have always been different. While our cousins, the Light Elves, were worshipped for their natural connection to magic and nature, we were born rejected by that same magic."
 								},
 								{
-									"translate": "item.yggdrasil.dark_elves_chronicle.page2",
-									"fallback": "For centuries, we endured the contempt of other races. Our sensitivity made us feel every disdainful look, every cruel word. But we were not a people of destruction - until their arrogance became unbearable. We then used our gift for dark magic, not to kill, but to erase centuries of elvish progress."
+									"translate": "item.yggdrasil.dark_elves_chronicle.page1b",
+									"fallback": "Our bodies, so different from theirs, were not predisposed to conventional magic, but we carried within us a darker, deeper gift."
 								},
 								{
-									"translate": "item.yggdrasil.dark_elves_chronicle.page3",
-									"fallback": "In our exile, we took their knowledge - every book, every tablet, every fragment of knowledge. Our greatest challenge then became achieving total mastery over magic. We developed ways to control white magic, but it was our gift for dark magic that allowed us to explore the unthinkable: proto-magic."
+									"translate": "item.yggdrasil.dark_elves_chronicle.page2a",
+									"fallback": "For centuries, we endured the contempt of other races. Our sensitivity made us feel every disdainful look, every cruel word. But we were not a people of destruction - until their arrogance became unbearable."
+								},
+								{
+									"translate": "item.yggdrasil.dark_elves_chronicle.page2b",
+									"fallback": "We then used our gift for dark magic, not to kill, but to erase centuries of elvish progress."
+								},
+								{
+									"translate": "item.yggdrasil.dark_elves_chronicle.page3a",
+									"fallback": "In our exile, we took their knowledge - every book, every tablet, every fragment of knowledge. Our greatest challenge then became achieving total mastery over magic."
+								},
+								{
+									"translate": "item.yggdrasil.dark_elves_chronicle.page3b",
+									"fallback": "We developed ways to control white magic, but it was our gift for dark magic that allowed us to explore the unthinkable: proto-magic."
 								},
 								{
 									"translate": "item.yggdrasil.dark_elves_chronicle.page4",
