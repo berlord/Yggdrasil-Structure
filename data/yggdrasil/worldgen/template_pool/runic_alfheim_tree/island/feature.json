@@ -7,7 +7,7 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "yggdrasil:runic_alfheim_tree/variant",
-				"location": "yggdrasil:alfheim_tree/island/tiny"
+				"location": "yggdrasil:runic_alfheim_tree/island/tiny"
 			}
 		},
 		{
@@ -16,7 +16,7 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "yggdrasil:runic_alfheim_tree/variant",
-				"location": "yggdrasil:alfheim_tree/island/flower_sphere"
+				"location": "yggdrasil:runic_alfheim_tree/island/flower_sphere"
 			}
 		},
 		{
@@ -25,7 +25,7 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "yggdrasil:runic_alfheim_tree/variant",
-				"location": "yggdrasil:alfheim_tree/island/medium"
+				"location": "yggdrasil:runic_alfheim_tree/island/medium"
 			}
 		},
 		{
@@ -34,7 +34,7 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "yggdrasil:runic_alfheim_tree/variant",
-				"location": "yggdrasil:alfheim_tree/island/large"
+				"location": "yggdrasil:runic_alfheim_tree/island/large"
 			}
 		},
 		{
@@ -43,7 +43,7 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "yggdrasil:runic_alfheim_tree/variant",
-				"location": "yggdrasil:alfheim_tree/island/huge"
+				"location": "yggdrasil:runic_alfheim_tree/island/huge"
 			}
 		},
 		{
@@ -52,7 +52,7 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "yggdrasil:runic_alfheim_tree/variant",
-				"location": "yggdrasil:alfheim_tree/island/satelite"
+				"location": "yggdrasil:runic_alfheim_tree/island/satelite"
 			}
 		},
 		{
@@ -61,7 +61,7 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "yggdrasil:runic_alfheim_tree/variant",
-				"location": "yggdrasil:alfheim_tree/island/descend"
+				"location": "yggdrasil:runic_alfheim_tree/island/descend"
 			}
 		}
 	]

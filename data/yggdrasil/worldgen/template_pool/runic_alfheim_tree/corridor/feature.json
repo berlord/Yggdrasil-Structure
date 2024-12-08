@@ -1,5 +1,5 @@
 {
-	"fallback": "yggdrasil:alfheim_tree/corridor/terminator",
+	"fallback": "yggdrasil:runic_alfheim_tree/corridor/terminator",
 	"elements": [
 		{
 			"weight": 8,
@@ -7,7 +7,7 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "yggdrasil:runic_alfheim_tree/variant",
-				"location": "yggdrasil:alfheim_tree/corridor/crossroads"
+				"location": "yggdrasil:runic_alfheim_tree/corridor/crossroads"
 			}
 		},
 		{
@@ -16,7 +16,7 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "yggdrasil:runic_alfheim_tree/variant",
-				"location": "yggdrasil:alfheim_tree/corridor/straight"
+				"location": "yggdrasil:runic_alfheim_tree/corridor/straight"
 			}
 		},
 		{
@@ -25,7 +25,7 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "yggdrasil:runic_alfheim_tree/variant",
-				"location": "yggdrasil:alfheim_tree/corridor/rounded"
+				"location": "yggdrasil:runic_alfheim_tree/corridor/rounded"
 			}
 		},
 		{
@@ -34,7 +34,7 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "yggdrasil:runic_alfheim_tree/variant",
-				"location": "yggdrasil:alfheim_tree/corridor/double_up_bottom"
+				"location": "yggdrasil:runic_alfheim_tree/corridor/double_up_bottom"
 			}
 		},
 		{
@@ -43,7 +43,7 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "yggdrasil:runic_alfheim_tree/variant",
-				"location": "yggdrasil:alfheim_tree/corridor/lunar"
+				"location": "yggdrasil:runic_alfheim_tree/corridor/lunar"
 			}
 		},
 		{
@@ -52,7 +52,7 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "yggdrasil:runic_alfheim_tree/variant",
-				"location": "yggdrasil:alfheim_tree/corridor/endless"
+				"location": "yggdrasil:runic_alfheim_tree/corridor/endless"
 			}
 		},
 		{
@@ -61,7 +61,7 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "yggdrasil:runic_alfheim_tree/variant",
-				"location": "yggdrasil:alfheim_tree/bridge/adapter"
+				"location": "yggdrasil:runic_alfheim_tree/bridge/adapter"
 			}
 		},
 		{
@@ -70,7 +70,7 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "yggdrasil:runic_alfheim_tree/variant",
-				"location": "yggdrasil:alfheim_tree/corridor/jump"
+				"location": "yggdrasil:runic_alfheim_tree/corridor/jump"
 			}
 		}
 	]

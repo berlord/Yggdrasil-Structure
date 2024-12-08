@@ -11,10 +11,6 @@
 		{
 			"structure": "yggdrasil:runic_alfheim_tree",
 			"weight": 1
-		},
-		{
-			"structure": "yggdrasil:runic_asflors",
-			"weight": 1
 		}
 	],
 	"placement": {

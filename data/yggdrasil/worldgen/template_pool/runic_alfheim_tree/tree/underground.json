@@ -7,7 +7,7 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "yggdrasil:runic_alfheim_tree/variant",
-				"location": "yggdrasil:alfheim_tree/tree/underground"
+				"location": "yggdrasil:runic_alfheim_tree/tree/underground"
 			}
 		}
 	]
