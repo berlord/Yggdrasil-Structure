@@ -157,5 +157,10 @@
 	"item.yggdrasil.runic_labyrinth.dark_elven_bow": "Arco de los Elfos Oscuros",
 	"item.yggdrasil.runic_labyrinth.dark_elven_bow.lore": "Un arma forjada en la oscuridad eterna",
 	"item.yggdrasil.runic_labyrinth.twilight_of_yggdrasil_bow": "Arco del Crepúsculo de Yggdrasil",
-	"item.yggdrasil.runic_labyrinth.twilight_of_yggdrasil_bow.lore": "Un arco legendario imbuido con el poder del vacío"
+	"item.yggdrasil.runic_labyrinth.twilight_of_yggdrasil_bow.lore": "Un arco legendario imbuido con el poder del vacío",
+	"item.yggdrasil.cubeoid.key": "Llave Cuboide",
+	"item.yggdrasil.cubeoid.key.lore1": "Esta llave solo puede usarse en",
+	"item.yggdrasil.cubeoid.key.lore2": "la Bóveda en el árbol Cuboide",
+	"item.yggdrasil.cubeoid.vault": "(Objeto de Estructura - Bóveda)",
+	"item.yggdrasil.cubeoid.location": "[Cuboide]"
 }

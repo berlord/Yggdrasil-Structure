@@ -157,5 +157,10 @@
 	"item.yggdrasil.runic_labyrinth.dark_elven_bow": "Bogen der Dunkelelfen",
 	"item.yggdrasil.runic_labyrinth.dark_elven_bow.lore": "Eine in ewiger Dunkelheit geschmiedete Waffe",
 	"item.yggdrasil.runic_labyrinth.twilight_of_yggdrasil_bow": "Bogen der Dämmerung Yggdrasils",
-	"item.yggdrasil.runic_labyrinth.twilight_of_yggdrasil_bow.lore": "Ein legendärer Bogen, durchdrungen von der Macht der Leere"
+	"item.yggdrasil.runic_labyrinth.twilight_of_yggdrasil_bow.lore": "Ein legendärer Bogen, erfüllt mit der Macht der Leere",
+	"item.yggdrasil.cubeoid.key": "Kuboid-Schlüssel",
+	"item.yggdrasil.cubeoid.key.lore1": "Dieser Schlüssel kann nur verwendet werden für",
+	"item.yggdrasil.cubeoid.key.lore2": "den Tresor im Kuboid-Baum",
+	"item.yggdrasil.cubeoid.vault": "(Struktur-Gegenstand - Tresor)",
+	"item.yggdrasil.cubeoid.location": "[Kuboid]"
 }

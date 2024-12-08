@@ -103,6 +103,7 @@
 	"item.yggdrasil.dark_elves_chronicle.page5": "L'Île Runique fut notre première grande création - un test assez complexe pour décourager les faibles, mais pas assez pour empêcher complètement l'accès aux plus déterminés. Car au-delà se trouve notre véritable chef-d'œuvre : le Labyrinthe Runique.",
 	"item.yggdrasil.dark_elves_chronicle.page6": "Le Labyrinthe est notre plus grande ruse. Dans cette dimension vide où ni nourriture ni eau n'existent, les visiteurs sont forcés d'y entrer pour survivre. Mais sa complexité est telle qu'il devient leur tombeau. Seuls les véritables Elfes Noirs peuvent en percer les secrets.",
 	"item.yggdrasil.dark_elves_chronicle.page7": "À ceux qui trouvent ces écrits : ce royaume n'est pas un refuge, mais un piège. Le vide qui vous entoure n'est que le début de votre épreuve. Le Labyrinthe vous attend, et avec lui, soit votre perte, soit votre révélation.",
+
 	"item.yggdrasil.runic_labyrinth_map": "Carte du Labyrinthe Runique",
 	"item.yggdrasil.dark_elven_bow": "Arc des Elfes Sombres",
 	"item.yggdrasil.dark_elven_bow.lore1": "Une arme forgée dans l'obscurité perpétuelle",
@@ -157,5 +158,10 @@
 	"item.yggdrasil.runic_labyrinth.dark_elven_bow": "Arc des Elfes Sombres",
 	"item.yggdrasil.runic_labyrinth.dark_elven_bow.lore": "Une arme forgée dans les ténèbres éternelles",
 	"item.yggdrasil.runic_labyrinth.twilight_of_yggdrasil_bow": "Arc du Crépuscule d'Yggdrasil",
-	"item.yggdrasil.runic_labyrinth.twilight_of_yggdrasil_bow.lore": "Un arc légendaire imprégné du pouvoir du vide"
+	"item.yggdrasil.runic_labyrinth.twilight_of_yggdrasil_bow.lore": "Un arc légendaire imprégné du pouvoir du vide",
+	"item.yggdrasil.cubeoid.key": "Clé Cuboïde",
+	"item.yggdrasil.cubeoid.key.lore1": "Cette clé ne peut être utilisée que sur",
+	"item.yggdrasil.cubeoid.key.lore2": "le Coffre-fort dans l'arbre Cuboïde",
+	"item.yggdrasil.cubeoid.vault": "(Objet de Structure - Coffre-fort)",
+	"item.yggdrasil.cubeoid.location": "[Cuboïde]"
 }

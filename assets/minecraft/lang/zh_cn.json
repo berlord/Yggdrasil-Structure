@@ -157,5 +157,10 @@
 	"item.yggdrasil.runic_labyrinth.dark_elven_bow": "黑暗精灵之弓",
 	"item.yggdrasil.runic_labyrinth.dark_elven_bow.lore": "在永恒黑暗中锻造的武器",
 	"item.yggdrasil.runic_labyrinth.twilight_of_yggdrasil_bow": "世界树暮光之弓",
-	"item.yggdrasil.runic_labyrinth.twilight_of_yggdrasil_bow.lore": "注入虚空之力的传说之弓"
+	"item.yggdrasil.runic_labyrinth.twilight_of_yggdrasil_bow.lore": "一把注入虚空之力的传奇弓",
+	"item.yggdrasil.cubeoid.key": "立方体钥匙",
+	"item.yggdrasil.cubeoid.key.lore1": "此钥匙只能用于",
+	"item.yggdrasil.cubeoid.key.lore2": "立方体之树中的保险库",
+	"item.yggdrasil.cubeoid.vault": "（结构物品 - 保险库）",
+	"item.yggdrasil.cubeoid.location": "[立方体]"
 }
