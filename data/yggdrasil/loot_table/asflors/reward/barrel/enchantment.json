@@ -18,7 +18,7 @@
 			"entries": [
 				{
 					"type": "minecraft:loot_table",
-					"value": "yggdrasil:asflors/compound/magic"
+					"value": "yggdrasil:generic/reward/random/magic"
 				}
 			]
 		}

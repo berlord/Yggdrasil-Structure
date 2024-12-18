@@ -6,7 +6,7 @@
 			"entries": [
 				{
 					"type": "minecraft:loot_table",
-					"value": "yggdrasil:alfheim_tree/key/ominous_key",
+					"value": "yggdrasil:alfheim_tree/key/ominous",
 					"conditions": [
 						{
 							"condition": "random_chance",
