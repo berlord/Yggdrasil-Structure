@@ -64,7 +64,7 @@
 	"item.yggdrasil.rune_of_rupture.lore1": "Rompe el espacio y el tiempo para acceder",
 	"item.yggdrasil.rune_of_rupture.lore2": "al lugar donde oculté el secreto",
 	"item.yggdrasil.real_rune_of_rupture": "Runa de Ruptura Auténtica",
-	"item.yggdrasil.quest_item.gliched": "(Objeto de Misión - @?^?0%)",
+	"item.yggdrasil.quest_item.gliched": "(Objeto de Misión - @?^?0)",
 	"item.yggdrasil.asflors_sword.fake": "Espada de Asflors",
 	"item.yggdrasil.asflors_sword.real": "La Verdadera Espada de Asflors",
 	"item.yggdrasil.asflors_sword.lore": "Arma legendaria indestructible",
@@ -162,5 +162,8 @@
 	"item.yggdrasil.cubeoid.key.lore1": "Esta llave solo puede usarse en",
 	"item.yggdrasil.cubeoid.key.lore2": "la Bóveda en el árbol Cuboide",
 	"item.yggdrasil.cubeoid.vault": "(Objeto de Estructura - Bóveda)",
-	"item.yggdrasil.cubeoid.location": "[Cuboide]"
+	"item.yggdrasil.cubeoid.location": "[Cuboide]",
+	"item.yggdrasil.asflors.map": "Mapa de Asflors",
+	"item.yggdrasil.glaosheimr.map": "Mapa de Glaosheimr",
+	"item.yggdrasil.alfheim.map": "Mapa de Alfheim"
 }

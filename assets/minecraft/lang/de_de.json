@@ -64,7 +64,7 @@
 	"item.yggdrasil.rune_of_rupture.lore1": "Durchbrich Raum und Zeit, um Zugang zu erhalten",
 	"item.yggdrasil.rune_of_rupture.lore2": "zu dem Ort, wo ich das Geheimnis verborgen habe",
 	"item.yggdrasil.real_rune_of_rupture": "Echte Rune des Bruchs",
-	"item.yggdrasil.quest_item.gliched": "(Quest-Gegenstand - @?^?0%)",
+	"item.yggdrasil.quest_item.gliched": "(Quest-Gegenstand - @?^?0)",
 	"item.yggdrasil.asflors_sword.fake": "Klinge von Asflors",
 	"item.yggdrasil.asflors_sword.real": "Die Wahre Klinge von Asflors",
 	"item.yggdrasil.asflors_sword.lore": "Unzerstörbare legendäre Waffe",
@@ -162,5 +162,8 @@
 	"item.yggdrasil.cubeoid.key.lore1": "Dieser Schlüssel kann nur verwendet werden für",
 	"item.yggdrasil.cubeoid.key.lore2": "den Tresor im Kuboid-Baum",
 	"item.yggdrasil.cubeoid.vault": "(Struktur-Gegenstand - Tresor)",
-	"item.yggdrasil.cubeoid.location": "[Kuboid]"
+	"item.yggdrasil.cubeoid.location": "[Kuboid]",
+	"item.yggdrasil.asflors.map": "Asflors-Karte",
+	"item.yggdrasil.glaosheimr.map": "Glaosheimr-Karte",
+	"item.yggdrasil.alfheim.map": "Alfheim-Karte"
 }

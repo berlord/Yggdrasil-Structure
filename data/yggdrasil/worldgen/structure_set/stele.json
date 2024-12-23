@@ -1,0 +1,24 @@
+{
+	"structures": [
+		{
+			"structure": "yggdrasil:zenflors",
+			"weight": 1
+		},
+		{
+			"structure": "yggdrasil:voroblom",
+			"weight": 1
+		},
+		{
+			"structure": "yggdrasil:lifblom",
+			"weight": 1
+		}
+	],
+	"placement": {
+		"type": "minecraft:random_spread",
+		"salt": 52660097,
+		"frequency": 0.75,
+		"spread_type": "linear",
+		"spacing": 22,
+		"separation": 17
+	}
+}

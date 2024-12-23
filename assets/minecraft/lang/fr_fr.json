@@ -32,7 +32,7 @@
 	"item.yggdrasil.last_villager_journal.page12": "Puisse ce message vous trouver en bonne santé, et puissent les connaissances que vous découvrirez servir un plus grand bien. Souvenez-vous des leçons de ceux qui vous ont précédé, et avancez avec précaution sur le chemin qui s'ouvre devant vous.",
 	"item.yggdrasil.timeless_one_journal": "Pages fragmentées du journal de l'Intemporel",
 	"item.yggdrasil.timeless_one_journal.page1": "J'ai parcouru les fils du temps plus longtemps que tout esprit mortel ne peut le concevoir. Chaque lever et coucher de soleil se fond en une tapisserie sans fin de moments, tissée de fils d'or et d'ombre. Les royaumes supérieurs",
-	"item.yggdrasil.timeless_one_journal.page2": "autrefois un lieu d'émerveillement et de découverte, ressemblent maintenant à une cage forgée par les mains mêmes de l'éternité.",
+	"item.yggdrasil.timeless_one_journal.page2": "autrefois un lieu d'émerveillement et de découverte, ressemblent maintenant à une cage forgée par les mains m��mes de l'éternité.",
 	"item.yggdrasil.timeless_one_journal.page3": "Dans les échos des halls d'Asgard, j'ai entendu des murmures de destin et de fatalité. Les récits d'Odin et de ses corbeaux, les cycles du Ragnarök qui lient même les plus puissants des dieux",
 	"item.yggdrasil.timeless_one_journal.page4": "— ces histoires résonnent d'une vérité que je ne peux ignorer. L'immortalité, semble-t-il, est à la fois un don et une malédiction, un paradoxe avec lequel même le Père de Toutes Choses doit composer.",
 	"item.yggdrasil.timeless_one_journal.page5": "Je me sens attiré par ce humble village, loin des flèches célestes. La simplicité des vies mortelles, leurs joies et leurs peines éphémères, m'offre un réconfort que j'ai longtemps été privé.",
@@ -64,7 +64,7 @@
 	"item.yggdrasil.rune_of_rupture.lore1": "Brisez l'espace et le temps pour accéder",
 	"item.yggdrasil.rune_of_rupture.lore2": "à l'endroit où j'ai caché le secret",
 	"item.yggdrasil.real_rune_of_rupture": "Authentique Rune de Rupture",
-	"item.yggdrasil.quest_item.gliched": "(Objet de Quête - @?^?0%)",
+	"item.yggdrasil.quest_item.gliched": "(Objet de Quête - @?^?0)",
 	"item.yggdrasil.asflors_sword.fake": "Lame d'Asflors",
 	"item.yggdrasil.asflors_sword.real": "La Véritable Lame d'Asflors",
 	"item.yggdrasil.asflors_sword.lore": "Arme légendaire indestructible",
@@ -163,5 +163,8 @@
 	"item.yggdrasil.cubeoid.key.lore1": "Cette clé ne peut être utilisée que sur",
 	"item.yggdrasil.cubeoid.key.lore2": "le Coffre-fort dans l'arbre Cuboïde",
 	"item.yggdrasil.cubeoid.vault": "(Objet de Structure - Coffre-fort)",
-	"item.yggdrasil.cubeoid.location": "[Cuboïde]"
+	"item.yggdrasil.cubeoid.location": "[Cuboïde]",
+	"item.yggdrasil.asflors.map": "Carte d'Asflors",
+	"item.yggdrasil.glaosheimr.map": "Carte de Glaosheimr",
+	"item.yggdrasil.alfheim.map": "Carte d'Alfheim"
 }

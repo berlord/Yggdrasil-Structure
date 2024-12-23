@@ -64,7 +64,7 @@
 	"item.yggdrasil.rune_of_rupture.lore1": "撕裂空间和时间以获得通道",
 	"item.yggdrasil.rune_of_rupture.lore2": "通往我隐藏秘密的地方",
 	"item.yggdrasil.real_rune_of_rupture": "真实破裂符文",
-	"item.yggdrasil.quest_item.gliched": "（任务物品 - @?^?0%）",
+	"item.yggdrasil.quest_item.gliched": "（任务物品 - @?^?0)",
 	"item.yggdrasil.asflors_sword.fake": "阿斯弗洛斯之剑",
 	"item.yggdrasil.asflors_sword.real": "真实阿斯弗洛斯之剑",
 	"item.yggdrasil.asflors_sword.lore": "不可摧毁的传说武器",
@@ -162,5 +162,8 @@
 	"item.yggdrasil.cubeoid.key.lore1": "此钥匙只能用于",
 	"item.yggdrasil.cubeoid.key.lore2": "立方体之树中的保险库",
 	"item.yggdrasil.cubeoid.vault": "（结构物品 - 保险库）",
-	"item.yggdrasil.cubeoid.location": "[立方体]"
+	"item.yggdrasil.cubeoid.location": "[立方体]",
+	"item.yggdrasil.asflors.map": "阿斯弗洛斯地图",
+	"item.yggdrasil.glaosheimr.map": "格劳斯海姆地图",
+	"item.yggdrasil.alfheim.map": "亚尔夫海姆地图"
 }

@@ -64,7 +64,7 @@
 	"item.yggdrasil.rune_of_rupture.lore1": "空間と時間を破り、アクセスせよ",
 	"item.yggdrasil.rune_of_rupture.lore2": "私が秘密を隠した場所へ",
 	"item.yggdrasil.real_rune_of_rupture": "真なる破壊のルーン",
-	"item.yggdrasil.quest_item.gliched": "(クエストアイテム - @?^?0%)",
+	"item.yggdrasil.quest_item.gliched": "(クエストアイテム - @?^?0)",
 	"item.yggdrasil.asflors_sword.fake": "アスフロルスの剣",
 	"item.yggdrasil.asflors_sword.real": "真のアスフロルスの剣",
 	"item.yggdrasil.asflors_sword.lore": "不滅の伝説の武器",
@@ -86,8 +86,8 @@
 	"item.yggdrasil.ominous_vault": "不吉な金庫",
 	"item.yggdrasil.chapter.runic_dimension": "��：ルーンの次元",
 	"item.yggdrasil.chapter.runic_dimension.page1": "我々の領域を超えて、絶対的な静止の世界が存在する - ルーンの次元だ。太陽も月も空を彩ることのない場所、時間そのものが存在を止める場所。この暗く無限の虚無は、かつて私を捕らえていた。",
-	"item.yggdrasil.chapter.runic_dimension.page2": "ここに残る生命の唯一の痕跡は、次元間の旅の術を極めた古代の存在、ダークエルフたちが残したものだ。彼らは世界と世界を繋ぐ祭壇を建造した。",
-	"item.yggdrasil.chapter.runic_dimension.page3": "彼らの最大の創造物 - ルーン迷宮 - の中心には、計り知れない力を持つ伝説の遺物がっている。この迷宮はニブルヘイムの迷宮と似ているが、その秘密はより不吉なものだ。",
+	"item.yggdrasil.chapter.runic_dimension.page2": "ここに残る���命の唯一の痕跡は、次元間の旅の術を極めた古代の存在、ダークエルフたちが残したものだ。彼らは世界と世界を繋ぐ祭壇を建造した。",
+	"item.yggdrasil.chapter.runic_dimension.page3": "彼らの最大の創造物 - ルーン迷宮 - の中心には、計り知れない力を持つ伝説の遺物���っている。この迷宮はニブルヘイムの迷宮と似ているが、その秘密はより不吉なものだ。",
 	"item.yggdrasil.chapter.runic_dimension.page4": "この領域に到達するには、ルーンの島に戻り、永遠の木の下を掘り、真なる破壊のルーンを手に持つ必要がある。そうすれば世界の間の帳が裂け、この永遠の闇の領域が現れるだろう。",
 
 	"item.yggdrasil.dark_elves_chronicle": "ダークエルフの年代記",
@@ -161,5 +161,8 @@
 	"item.yggdrasil.cubeoid.key.lore1": "この鍵は以下でのみ使用可能：",
 	"item.yggdrasil.cubeoid.key.lore2": "キューボイドの木の金庫",
 	"item.yggdrasil.cubeoid.vault": "（構造物アイテム - 金庫）",
-	"item.yggdrasil.cubeoid.location": "[キューボイド]"
+	"item.yggdrasil.cubeoid.location": "[キューボイド]",
+	"item.yggdrasil.asflors.map": "アスフロルスの地図",
+	"item.yggdrasil.glaosheimr.map": "グラオスヘイムルの地図",
+	"item.yggdrasil.alfheim.map": "アルフヘイムの地図"
 }
