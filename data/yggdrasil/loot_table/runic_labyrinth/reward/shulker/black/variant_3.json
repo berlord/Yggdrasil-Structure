@@ -7,6 +7,17 @@
 				{
 					"type": "minecraft:loot_table",
 					"value": "yggdrasil:runic_labyrinth/key/normal",
+					"weight": 5,
+					"conditions": [
+						{
+							"condition": "minecraft:random_chance",
+							"chance": 0.25
+						}
+					]
+				},
+				{
+					"type": "minecraft:loot_table",
+					"value": "yggdrasil:runic_labyrinth/key/ominous",
 					"weight": 1,
 					"conditions": [
 						{

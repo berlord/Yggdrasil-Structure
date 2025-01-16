@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:chest",
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:loot_table",
+					"value": "yggdrasil:helheim/enchanted_book/ominous_vault"
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:loot_table",
+					"value": "yggdrasil:helheim/lore/chapter_9"
+				}
+			]
+		}
+	],
+	"random_sequence": "yggdrasil:helheim/chest"
+}

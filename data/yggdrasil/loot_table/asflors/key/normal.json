@@ -52,7 +52,7 @@
 									"text": ""
 								},
 								{
-									"translate": "item.yggdrasil.asflors.vault",
+									"translate": "item.yggdrasil.structure.vault",
 									"fallback": "(Structure Item - Vault)",
 									"color": "#707070",
 									"bold": false,

@@ -51,7 +51,7 @@
 									"text": ""
 								},
 								{
-									"translate": "item.yggdrasil.cubeoid.vault",
+									"translate": "item.yggdrasil.structure.vault",
 									"fallback": "(Structure Item - Vault)",
 									"color": "#707070",
 									"bold": false,

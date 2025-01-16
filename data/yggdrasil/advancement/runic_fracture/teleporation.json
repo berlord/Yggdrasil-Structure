@@ -4,17 +4,8 @@
 			"trigger": "minecraft:enter_block",
 			"conditions": {
 				"player": {
-					"equipment": {
-						"mainhand": {
-							"components": {
-								"minecraft:custom_data": {
-									"yggdrasil": {
-										"quest_item": true,
-										"quest_id": "yggdrasil.asflors.real_rune_of_rupture"
-									}
-								}
-							}
-						}
+					"location": {
+						"dimension": "minecraft:overworld"
 					}
 				},
 				"block": "minecraft:end_gateway"

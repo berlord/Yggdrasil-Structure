@@ -16,15 +16,6 @@
 			"entries": [
 				{
 					"type": "minecraft:loot_table",
-					"value": "yggdrasil:asflors/treasure/real_rune_of_rupture"
-				}
-			]
-		},
-		{
-			"rolls": 1,
-			"entries": [
-				{
-					"type": "minecraft:loot_table",
 					"value": "yggdrasil:asflors/lore/secret_chapter_8"
 				}
 			]

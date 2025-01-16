@@ -51,7 +51,7 @@
 									"text": ""
 								},
 								{
-									"translate": "item.yggdrasil.runic_labyrinth.ominous_vault",
+									"translate": "item.yggdrasil.structure.ominous_vault",
 									"fallback": "(Structure Item - Ominous Vault)",
 									"color": "#707070",
 									"bold": false,

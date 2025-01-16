@@ -46,7 +46,7 @@
 									"text": ""
 								},
 								{
-									"translate": "item.yggdrasil.alfheim.vault",
+									"translate": "item.yggdrasil.structure.vault",
 									"fallback": "(Structure Item - Vault)",
 									"color": "#707070",
 									"bold": false,
