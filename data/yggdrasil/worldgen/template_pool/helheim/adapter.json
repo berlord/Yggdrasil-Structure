@@ -1,5 +1,5 @@
 {
-	"fallback": "yggdrasil:asflors/terminator",
+	"fallback": "minecraft:empty",
 	"elements": [
 		{
 			"weight": 2,

@@ -1,5 +1,5 @@
 {
-	"fallback": "yggdrasil:helheim/terminator",
+	"fallback": "minecraft:empty",
 	"elements": [
 		{
 			"weight": 2,
@@ -7,7 +7,7 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "minecraft:empty",
-				"location": "yggdrasil:helheim/road/straight"
+				"location": "yggdrasil:helheim/room/terminator"
 			}
 		}
 	]
