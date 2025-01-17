@@ -290,5 +290,17 @@
 	"item.yggdrasil.helheim.chronicles.quest.familiar.p6": "子供が徐々に狂気に陥っていく中で、狐はこれらの資質を吸収した。",
 	"item.yggdrasil.helheim.chronicles.quest.familiar.p7": "大切に扱いなさい。それはあなたの導き手となり、守護者となるだろう。",
 	"item.yggdrasil.helheim.chronicles.quest.familiar.p8": "それは私たちが守るべきだったすべてのもの、子供が人間性を失う中で、私たちが世紀を超えて回復しようと努めなければならないすべてのものを表している。",
-	"item.yggdrasil.helheim.chronicles.quest.familiar.p9": "私は成功裏にその本質をルーンに封印した。それを解放することは死すべき者たちを守ることだ。"
+	"item.yggdrasil.helheim.chronicles.quest.familiar.p9": "私は成功裏にその本質をルーンに封印した。それを解放することは死すべき者たちを守ることだ。",
+
+	"item.yggdrasil.helheim.rune_of_reva": "レヴァのルーン",
+	"item.yggdrasil.helheim.rune_of_reva.lore1": "レヴァを眠りから解放する",
+	"item.yggdrasil.helheim.rune_of_reva.lore2": "どこへ行くにもあなたに付いてくる",
+	"item.yggdrasil.quest.reward": "(クエストアイテム - 報酬)",
+	"item.yggdrasil.structure.ominous_vault": "(ストラクチャーアイテム - 不吉な金庫)",
+	"item.yggdrasil.structure.vault": "(ストラクチャーアイテム - 金庫)",
+
+	"item.yggdrasil.helheim.location": "[ヘルヘイム]",
+	"item.yggdrasil.helheim.key": "ヘルヘイムの鍵",
+	"item.yggdrasil.asflors.ominous_key": "ヘルヘイムの不吉な鍵",
+	"item.yggdrasil.helheim.ominous_key.lore.1": "ヘルヘイムの不吉な金庫でのみ使用可能"
 }

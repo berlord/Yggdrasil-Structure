@@ -292,5 +292,17 @@
 	"item.yggdrasil.helheim.chronicles.quest.familiar.p6": "El zorro absorbió estas cualidades mientras el niño se hundía gradualmente en la locura.",
 	"item.yggdrasil.helheim.chronicles.quest.familiar.p7": "Cuídalo bien. Será tu guía, tu protector.",
 	"item.yggdrasil.helheim.chronicles.quest.familiar.p8": "Representa todo lo que deberíamos haber protegido, todo lo que debemos esforzarnos por recuperar a través de los siglos, justo cuando el niño perdía su humanidad.",
-	"item.yggdrasil.helheim.chronicles.quest.familiar.p9": "Logré sellar su esencia en una runa, liberarlo es proteger a los mortales."
+	"item.yggdrasil.helheim.chronicles.quest.familiar.p9": "Logré sellar su esencia en una runa, liberarlo es proteger a los mortales.",
+
+	"item.yggdrasil.helheim.rune_of_reva": "Runa de Reva",
+	"item.yggdrasil.helheim.rune_of_reva.lore1": "Liberar a Reva de su sueño",
+	"item.yggdrasil.helheim.rune_of_reva.lore2": "Te acompañará a donde vayas",
+	"item.yggdrasil.quest.reward": "(Objeto de Misión - Recompensa)",
+	"item.yggdrasil.structure.ominous_vault": "(Objeto de Estructura - Bóveda Siniestra)",
+	"item.yggdrasil.structure.vault": "(Objeto de Estructura - Bóveda)",
+
+	"item.yggdrasil.helheim.location": "[Helheim]",
+	"item.yggdrasil.helheim.key": "Llave de Helheim",
+	"item.yggdrasil.asflors.ominous_key": "Llave Siniestra de Helheim",
+	"item.yggdrasil.helheim.ominous_key.lore.1": "Solo puede usarse en la Bóveda Siniestra de Helheim"
 }

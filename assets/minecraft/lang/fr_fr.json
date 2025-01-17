@@ -294,5 +294,17 @@
 	"item.yggdrasil.helheim.chronicles.quest.familiar.p6": "Le renard a absorbé ces qualités alors que l'enfant sombrait peu à peu dans la folie.",
 	"item.yggdrasil.helheim.chronicles.quest.familiar.p7": "Prenez-en soin. Il sera votre guide, votre protecteur.",
 	"item.yggdrasil.helheim.chronicles.quest.familiar.p8": "Il représente tout ce que nous aurions dû préserver, tout ce que nous devons nous efforcer de restaurer au fil des siècles, alors que l'enfant perdait son humanité.",
-	"item.yggdrasil.helheim.chronicles.quest.familiar.p9": "J'ai réussi à capturer son essence dans une rune, libérer le est protéger les mortels."
+	"item.yggdrasil.helheim.chronicles.quest.familiar.p9": "J'ai réussi à capturer son essence dans une rune, libérer le est protéger les mortels.",
+
+	"item.yggdrasil.helheim.rune_of_reva": "Rune of Reva",
+	"item.yggdrasil.helheim.rune_of_reva.lore1": "Libérer Reva de son sommeil",
+	"item.yggdrasil.helheim.rune_of_reva.lore2": "Il vous accompagnera partout où vous allez.",
+	"item.yggdrasil.quest.reward": "(Objet de Quête - Récompense)",
+	"item.yggdrasil.structure.ominous_vault": "(Structure Item - Coffre-Fort Ominous)",
+	"item.yggdrasil.structure.vault": "(Structure Item - Coffre-Fort)",
+
+	"item.yggdrasil.helheim.location": "[Helheim]",
+	"item.yggdrasil.helheim.key": "Clé de Helheim",
+	"item.yggdrasil.asflors.ominous_key": "Clé Ominous de Helheim",
+	"item.yggdrasil.helheim.ominous_key.lore.1": "Ne peut être utilisée que sur le Coffre-Fort Ominous de Helheim"
 }

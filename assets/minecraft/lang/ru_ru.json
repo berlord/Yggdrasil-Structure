@@ -290,5 +290,17 @@
 	"item.yggdrasil.helheim.chronicles.quest.familiar.p6": "Через него я начала понимать истинную природу своей роли.",
 	"item.yggdrasil.helheim.chronicles.quest.familiar.p7": "Он показал мне, что быть Хель - значит быть не только судьёй, но и хранителем историй.",
 	"item.yggdrasil.helheim.chronicles.quest.familiar.p8": "В его присутствии границы между прошлым и настоящим размываются.",
-	"item.yggdrasil.helheim.chronicles.quest.familiar.p9": "И я вижу картину большую, чем могла представить."
+	"item.yggdrasil.helheim.chronicles.quest.familiar.p9": "И я вижу картину большую, чем могла представить.",
+
+	"item.yggdrasil.helheim.rune_of_reva": "Руна Ревы",
+	"item.yggdrasil.helheim.rune_of_reva.lore1": "Освободить Реву от его сна",
+	"item.yggdrasil.helheim.rune_of_reva.lore2": "Он будет сопровождать вас повсюду.",
+	"item.yggdrasil.quest.reward": "(Предмет Квеста - Награда)",
+	"item.yggdrasil.structure.ominous_vault": "(Структурный Предмет - Зловещий Сейф)",
+	"item.yggdrasil.structure.vault": "(Структурный Предмет - Сейф)",
+
+	"item.yggdrasil.helheim.location": "[Хельхейм]",
+	"item.yggdrasil.helheim.key": "Ключ Хельхейма",
+	"item.yggdrasil.asflors.ominous_key": "Зловещий Ключ Хельхейма",
+	"item.yggdrasil.helheim.ominous_key.lore.1": "Может использоваться только на Зловещем Сейфе Хельхейма"
 }

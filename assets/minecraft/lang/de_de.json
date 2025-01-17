@@ -300,5 +300,17 @@
 	"item.yggdrasil.helheim.chronicles.quest.familiar.p6": "Der Fuchs absorbierte diese Eigenschaften, während das Kind allmählich dem Wahnsinn verfiel.",
 	"item.yggdrasil.helheim.chronicles.quest.familiar.p7": "Kümmert euch um ihn. Er wird euer Führer sein, euer Beschützer.",
 	"item.yggdrasil.helheim.chronicles.quest.familiar.p8": "Er repräsentiert alles, was wir hätten bewahren sollen, alles, was wir im Laufe der Jahrhunderte wiederherzustellen versuchen müssen, während das Kind seine Menschlichkeit verlor.",
-	"item.yggdrasil.helheim.chronicles.quest.familiar.p9": "Es gelang mir, seine Essenz in einer Rune einzufangen, ihn zu befreien bedeutet, die Sterblichen zu schützen."
+	"item.yggdrasil.helheim.chronicles.quest.familiar.p9": "Es gelang mir, seine Essenz in einer Rune einzufangen, ihn zu befreien bedeutet, die Sterblichen zu schützen.",
+
+	"item.yggdrasil.helheim.rune_of_reva": "Rune von Reva",
+	"item.yggdrasil.helheim.rune_of_reva.lore1": "Befreie Reva aus ihrem Schlummer",
+	"item.yggdrasil.helheim.rune_of_reva.lore2": "Sie wird dir überall hin folgen",
+	"item.yggdrasil.quest.reward": "(Quest-Gegenstand - Belohnung)",
+	"item.yggdrasil.structure.ominous_vault": "(Struktur-Gegenstand - Unheilvoller Tresor)",
+	"item.yggdrasil.structure.vault": "(Struktur-Gegenstand - Tresor)",
+
+	"item.yggdrasil.helheim.location": "[Helheim]",
+	"item.yggdrasil.helheim.key": "Helheim-Schlüssel",
+	"item.yggdrasil.asflors.ominous_key": "Unheilvoller Helheim-Schlüssel",
+	"item.yggdrasil.helheim.ominous_key.lore.1": "Kann nur am Unheilvollen Tresor von Helheim verwendet werden"
 }

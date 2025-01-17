@@ -291,5 +291,17 @@
 	"item.yggdrasil.helheim.chronicles.quest.familiar.p6": "当孩子逐渐陷入疯狂时，狐狸吸收了这些品质。",
 	"item.yggdrasil.helheim.chronicles.quest.familiar.p7": "好好照顾它。它将成为你的向导，你的保护者。",
 	"item.yggdrasil.helheim.chronicles.quest.familiar.p8": "它代表着我们本应该保护的一切，我们必须努力在世纪的流逝中恢复的一切，就在孩子失去人性的时候。",
-	"item.yggdrasil.helheim.chronicles.quest.familiar.p9": "我成功地将它的本质封印在一个符文中，释放它就是保护凡人。"
+	"item.yggdrasil.helheim.chronicles.quest.familiar.p9": "我成功地将它的本质封印在一个符文中，释放它就是保护凡人。",
+
+	"item.yggdrasil.helheim.rune_of_reva": "瑞瓦符文",
+	"item.yggdrasil.helheim.rune_of_reva.lore1": "唤醒沉睡中的瑞瓦",
+	"item.yggdrasil.helheim.rune_of_reva.lore2": "它将随你到任何地方",
+	"item.yggdrasil.quest.reward": "(任务物品 - 奖励)",
+	"item.yggdrasil.structure.ominous_vault": "(建筑物品 - 不祥保险箱)",
+	"item.yggdrasil.structure.vault": "(建筑物品 - 保险箱)",
+
+	"item.yggdrasil.helheim.location": "[海姆冥界]",
+	"item.yggdrasil.helheim.key": "海姆冥界钥匙",
+	"item.yggdrasil.asflors.ominous_key": "海姆冥界不祥钥匙",
+	"item.yggdrasil.helheim.ominous_key.lore.1": "只能用于海姆冥界的不祥保险箱"
 }
