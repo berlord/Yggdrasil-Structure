@@ -7,16 +7,16 @@
 			"entries": [
 				{
 					"type": "minecraft:loot_table",
-					"value": "yggdrasil:alfheim_tree/key/normal",
+					"value": "yggdrasil:helheim/key/normal",
 					"weight": 10
 				},
 				{
 					"type": "minecraft:loot_table",
-					"value": "yggdrasil:alfheim_tree/key/ominous",
+					"value": "yggdrasil:helheim/key/ominous",
 					"weight": 1
 				}
 			]
 		}
 	],
-	"random_sequence": "yggdrasil:alfheim_tree/spawner/key"
+	"random_sequence": "yggdrasil:helheim/reward"
 }

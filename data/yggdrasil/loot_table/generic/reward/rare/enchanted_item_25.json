@@ -3,7 +3,6 @@
 	"pools": [
 		{
 			"rolls": 1,
-			"bonus_rolls": 0,
 			"entries": [
 				{
 					"type": "minecraft:tag",
@@ -13,7 +12,7 @@
 					"functions": [
 						{
 							"function": "minecraft:enchant_with_levels",
-							"levels": { "min": 0, "max": 12 },
+							"levels": 25,
 							"options": "#minecraft:non_treasure"
 						}
 					]
