@@ -34,8 +34,7 @@
 								"minecraft:enchantment_glint_override": true,
 								"minecraft:custom_data": {
 									"yggdrasil": {
-										"quest_item": true,
-										"quest_id": "yggdrasil.helheim.rune_of_reva"
+										"id": "yggdrasil.helheim.treasure.rune_of_reva"
 									}
 								}
 							}

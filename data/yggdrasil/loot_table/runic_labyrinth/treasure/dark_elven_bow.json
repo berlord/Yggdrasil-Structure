@@ -28,6 +28,11 @@
 							"components": {
 								"minecraft:unbreakable": {
 									"show_in_tooltip": true
+								},
+								"minecraft:custom_data": {
+									"yggdrasil": {
+										"id": "yggdrasil.runic_labyrinth.treasure.dark_elven_bow"
+									}
 								}
 							}
 						},

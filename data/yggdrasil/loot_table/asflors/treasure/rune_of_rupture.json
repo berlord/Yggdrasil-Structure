@@ -29,8 +29,7 @@
 								"minecraft:enchantment_glint_override": true,
 								"minecraft:custom_data": {
 									"yggdrasil": {
-										"quest_item": true,
-										"quest_id": "yggdrasil.asflors.rune_of_rupture"
+										"id": "yggdrasil.asflors.treasure.rune_of_rupture"
 									}
 								}
 							}
