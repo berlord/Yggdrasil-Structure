@@ -62,8 +62,8 @@
 									"text": ""
 								},
 								{
-									"translate": "item.yggdrasil.asflors.rune_of_rupture.structure_door",
-									"fallback": "(Quest Item - Structure Door)",
+									"translate": "item.yggdrasil.quest_item.story",
+									"fallback": "(Quest Item - Story)",
 									"color": "#707070",
 									"bold": false,
 									"italic": false,
