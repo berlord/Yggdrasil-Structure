@@ -1,0 +1,93 @@
+{
+	"loot_tables_to_eject": [
+		{
+			"data": "yggdrasil:asgard/spawner/key",
+			"weight": 3
+		},
+		{
+			"data": "yggdrasil:asgard/spawner/consumables",
+			"weight": 7
+		}
+	],
+	"simultaneous_mobs": 10.0,
+	"simultaneous_mobs_added_per_player": 2.0,
+	"spawn_potentials": [
+		{
+			"data": {
+				"entity": {
+					"attributes": [
+						{
+							"id": "minecraft:scale",
+							"modifiers": [
+								{
+									"amount": 1.1,
+									"operation": "add_multiplied_base",
+									"id": "yggdrasil:spawners/scale"
+								}
+							]
+						},
+						{
+							"id": "max_health",
+							"modifiers": [
+								{
+									"amount": 2,
+									"operation": "add_multiplied_base",
+									"id": "yggdrasil:spawners/max_health"
+								}
+							]
+						},
+						{
+							"id": "minecraft:attack_damage",
+							"modifiers": [
+								{
+									"amount": 4,
+									"operation": "add_value",
+									"id": "yggdrasil:spawners/attack_damage"
+								}
+							]
+						},
+						{
+							"id": "minecraft:attack_damage",
+							"modifiers": [
+								{
+									"amount": 1.2,
+									"operation": "add_multiplied_base",
+									"id": "yggdrasil:spawners/attack_speed"
+								}
+							]
+						},
+						{
+							"id": "armor",
+							"modifiers": [
+								{
+									"amount": 10,
+									"operation": "add_value",
+									"id": "yggdrasil:spawners/armor"
+								}
+							]
+						},
+						{
+							"id": "armor_toughness",
+							"modifiers": [
+								{
+									"amount": 4,
+									"operation": "add_value",
+									"id": "yggdrasil:spawners/armor_toughness"
+								}
+							]
+						}
+					],
+
+					"DeathLootTable": "yggdrasil:generic/mob/normal/skeleton",
+					"id": "minecraft:skeleton"
+				},
+				"equipment": {
+					"loot_table": "yggdrasil:generic/equipment/normal/range",
+					"slot_drop_chances": 0.0
+				}
+			},
+			"weight": 1
+		}
+	],
+	"ticks_between_spawn": 80
+}
