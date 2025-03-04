@@ -77,16 +77,6 @@
 							]
 						}
 					],
-					"attributes": [
-						{
-							"id": "minecraft:attack_damage",
-							"base": 8
-						},
-						{
-							"id": "minecraft:knockback_resistance",
-							"base": 10
-						}
-					],
 					"DeathLootTable": "yggdrasil:generic/mob/ominous/spider",
 					"active_effects": [
 						{

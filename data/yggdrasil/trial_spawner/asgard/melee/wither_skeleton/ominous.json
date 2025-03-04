@@ -77,20 +77,6 @@
 							]
 						}
 					],
-					"attributes": [
-						{
-							"id": "minecraft:attack_damage",
-							"base": 10
-						},
-						{
-							"id": "minecraft:fall_damage_multiplier",
-							"base": 50
-						},
-						{
-							"id": "minecraft:knockback_resistance",
-							"base": 10
-						}
-					],
 					"DeathLootTable": "yggdrasil:generic/mob/ominous/wither_skeleton",
 					"active_effects": [
 						{
