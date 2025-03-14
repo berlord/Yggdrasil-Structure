@@ -37,6 +37,11 @@
 					"type": "minecraft:loot_table",
 					"value": "yggdrasil:asgard/reward/shared/moss",
 					"weight": 1
+				},
+				{
+					"type": "minecraft:loot_table",
+					"value": "yggdrasil:asgard/treasure/midas",
+					"weight": 1
 				}
 			]
 		},
