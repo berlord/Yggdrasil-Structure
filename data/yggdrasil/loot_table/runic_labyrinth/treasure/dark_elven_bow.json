@@ -56,28 +56,28 @@
 									"id": "yggdrasil.dark_elven_bow.movement_speed",
 									"amount": 0.65,
 									"operation": "add_multiplied_base",
-									"slot": "hand"
+									"slot": "mainhand"
 								},
 								{
 									"attribute": "minecraft:step_height",
 									"id": "yggdrasil.dark_elven_bow.step_height",
 									"amount": 2,
 									"operation": "add_value",
-									"slot": "hand"
+									"slot": "mainhand"
 								},
 								{
 									"attribute": "minecraft:safe_fall_distance",
 									"id": "yggdrasil.dark_elven_bow.safe_fall_distance",
 									"amount": 5,
 									"operation": "add_value",
-									"slot": "hand"
+									"slot": "mainhand"
 								},
 								{
 									"attribute": "minecraft:gravity",
 									"id": "yggdrasil.dark_elven_bow.gravity",
 									"amount": 0.5,
 									"operation": "add_multiplied_total",
-									"slot": "hand"
+									"slot": "mainhand"
 								}
 							]
 						}

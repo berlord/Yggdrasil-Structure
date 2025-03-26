@@ -56,35 +56,28 @@
 									"id": "yggdrasil.twilight_of_yggdrasil_bow.movement_speed",
 									"amount": 1.15,
 									"operation": "add_multiplied_base",
-									"slot": "hand"
+									"slot": "mainhand"
 								},
 								{
 									"attribute": "minecraft:knockback_resistance",
 									"id": "yggdrasil.twilight_of_yggdrasil_bow.knockback_resistance",
 									"amount": 0.25,
 									"operation": "add_multiplied_total",
-									"slot": "hand"
-								},
-								{
-									"attribute": "minecraft:jump_strength",
-									"id": "yggdrasil.twilight_of_yggdrasil_bow.jump_strength",
-									"amount": 3,
-									"operation": "add_value",
-									"slot": "hand"
+									"slot": "mainhand"
 								},
 								{
 									"attribute": "minecraft:safe_fall_distance",
 									"id": "yggdrasil.twilight_of_yggdrasil_bow.safe_fall_distance",
 									"amount": 7,
 									"operation": "add_value",
-									"slot": "hand"
+									"slot": "mainhand"
 								},
 								{
 									"attribute": "minecraft:gravity",
 									"id": "yggdrasil.twilight_of_yggdrasil_bow.gravity",
 									"amount": 1.25,
 									"operation": "add_multiplied_total",
-									"slot": "hand"
+									"slot": "mainhand"
 								}
 							]
 						}
