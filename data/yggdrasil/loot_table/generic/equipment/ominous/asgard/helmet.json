@@ -147,42 +147,42 @@
 							"id": "yggdrasil:spawners/scale",
 							"amount": 1.1,
 							"operation": "add_multiplied_base",
-							"slot": "hand"
+							"slot": "head"
 						},
 						{
 							"attribute": "minecraft:max_health",
 							"id": "yggdrasil:spawners/max_health",
 							"amount": 2,
 							"operation": "add_multiplied_base",
-							"slot": "hand"
+							"slot": "head"
 						},
 						{
 							"attribute": "minecraft:attack_damage",
 							"id": "yggdrasil:spawners/attack_damage",
 							"amount": 4,
 							"operation": "add_value",
-							"slot": "hand"
+							"slot": "head"
 						},
 						{
 							"attribute": "minecraft:attack_damage",
 							"id": "yggdrasil:spawners/attack_speed",
 							"amount": 1.2,
 							"operation": "add_multiplied_base",
-							"slot": "hand"
+							"slot": "head"
 						},
 						{
 							"attribute": "minecraft:armor",
 							"id": "yggdrasil:spawners/armor",
 							"amount": 10,
 							"operation": "add_value",
-							"slot": "hand"
+							"slot": "head"
 						},
 						{
 							"attribute": "minecraft:armor_toughness",
 							"id": "yggdrasil:spawners/armor_toughness",
 							"amount": 4,
 							"operation": "add_value",
-							"slot": "hand"
+							"slot": "head"
 						}
 					],
 					"replace": false
